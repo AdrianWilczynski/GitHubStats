@@ -1,0 +1,502 @@
+[
+  {
+    "City": "Warszawa",
+    "Voivodeship": "mazowieckie",
+    "Population": 1777972
+  },
+  {
+    "City": "Kraków",
+    "Voivodeship": "małopolskie",
+    "Population": 771069
+  },
+  {
+    "City": "Łódź",
+    "Voivodeship": "łódzkie",
+    "Population": 685285
+  },
+  {
+    "City": "Wrocław",
+    "Voivodeship": "dolnośląskie",
+    "Population": 640648
+  },
+  {
+    "City": "Poznań",
+    "Voivodeship": "wielkopolskie",
+    "Population": 536438
+  },
+  {
+    "City": "Gdańsk",
+    "Voivodeship": "pomorskie",
+    "Population": 466631
+  },
+  {
+    "City": "Szczecin",
+    "Voivodeship": "zachodniopomorskie",
+    "Population": 402465
+  },
+  {
+    "City": "Bydgoszcz",
+    "Voivodeship": "kujawsko-pomorskie",
+    "Population": 350178
+  },
+  {
+    "City": "Lublin",
+    "Voivodeship": "lubelskie",
+    "Population": 339682
+  },
+  {
+    "City": "Białystok",
+    "Voivodeship": "podlaskie",
+    "Population": 297459
+  },
+  {
+    "City": "Katowice",
+    "Voivodeship": "śląskie",
+    "Population": 294510
+  },
+  {
+    "City": "Gdynia",
+    "Voivodeship": "pomorskie",
+    "Population": 246309
+  },
+  {
+    "City": "Częstochowa",
+    "Voivodeship": "śląskie",
+    "Population": 222292
+  },
+  {
+    "City": "Radom",
+    "Voivodeship": "mazowieckie",
+    "Population": 213029
+  },
+  {
+    "City": "Toruń",
+    "Voivodeship": "kujawsko-pomorskie",
+    "Population": 202074
+  },
+  {
+    "City": "Sosnowiec",
+    "Voivodeship": "śląskie",
+    "Population": 202036
+  },
+  {
+    "City": "Kielce",
+    "Voivodeship": "świętokrzyskie",
+    "Population": 195774
+  },
+  {
+    "City": "Rzeszów",
+    "Voivodeship": "podkarpackie",
+    "Population": 193883
+  },
+  {
+    "City": "Gliwice",
+    "Voivodeship": "śląskie",
+    "Population": 179806
+  },
+  {
+    "City": "Zabrze",
+    "Voivodeship": "śląskie",
+    "Population": 173374
+  },
+  {
+    "City": "Olsztyn",
+    "Voivodeship": "warmińsko-mazurskie",
+    "Population": 172362
+  },
+  {
+    "City": "Bielsko-Biała",
+    "Voivodeship": "śląskie",
+    "Population": 171259
+  },
+  {
+    "City": "Bytom",
+    "Voivodeship": "śląskie",
+    "Population": 166795
+  },
+  {
+    "City": "Zielona Góra",
+    "Voivodeship": "lubuskie",
+    "Population": 140297
+  },
+  {
+    "City": "Rybnik",
+    "Voivodeship": "śląskie",
+    "Population": 138696
+  },
+  {
+    "City": "Ruda Śląska",
+    "Voivodeship": "śląskie",
+    "Population": 138000
+  },
+  {
+    "City": "Opole",
+    "Voivodeship": "opolskie",
+    "Population": 128137
+  },
+  {
+    "City": "Tychy",
+    "Voivodeship": "śląskie",
+    "Population": 127831
+  },
+  {
+    "City": "Gorzów Wielkopolski",
+    "Voivodeship": "lubuskie",
+    "Population": 123921
+  },
+  {
+    "City": "Dąbrowa Górnicza",
+    "Voivodeship": "śląskie",
+    "Population": 120259
+  },
+  {
+    "City": "Elbląg",
+    "Voivodeship": "warmińsko-mazurskie",
+    "Population": 120142
+  },
+  {
+    "City": "Płock",
+    "Voivodeship": "mazowieckie",
+    "Population": 120000
+  },
+  {
+    "City": "Wałbrzych",
+    "Voivodeship": "dolnośląskie",
+    "Population": 112594
+  },
+  {
+    "City": "Włocławek",
+    "Voivodeship": "kujawsko-pomorskie",
+    "Population": 110802
+  },
+  {
+    "City": "Tarnów",
+    "Voivodeship": "małopolskie",
+    "Population": 109062
+  },
+  {
+    "City": "Chorzów",
+    "Voivodeship": "śląskie",
+    "Population": 108434
+  },
+  {
+    "City": "Koszalin",
+    "Voivodeship": "zachodniopomorskie",
+    "Population": 107321
+  },
+  {
+    "City": "Kalisz",
+    "Voivodeship": "wielkopolskie",
+    "Population": 100975
+  },
+  {
+    "City": "Legnica",
+    "Voivodeship": "dolnośląskie",
+    "Population": 99752
+  },
+  {
+    "City": "Grudziądz",
+    "Voivodeship": "kujawsko-pomorskie",
+    "Population": 95045
+  },
+  {
+    "City": "Jaworzno",
+    "Voivodeship": "śląskie",
+    "Population": 91563
+  },
+  {
+    "City": "Słupsk",
+    "Voivodeship": "pomorskie",
+    "Population": 91007
+  },
+  {
+    "City": "Jastrzębie-Zdrój",
+    "Voivodeship": "śląskie",
+    "Population": 89128
+  },
+  {
+    "City": "Nowy Sącz",
+    "Voivodeship": "małopolskie",
+    "Population": 83896
+  },
+  {
+    "City": "Jelenia Góra",
+    "Voivodeship": "dolnośląskie",
+    "Population": 79480
+  },
+  {
+    "City": "Siedlce",
+    "Voivodeship": "mazowieckie",
+    "Population": 77872
+  },
+  {
+    "City": "Mysłowice",
+    "Voivodeship": "śląskie",
+    "Population": 74586
+  },
+  {
+    "City": "Konin",
+    "Voivodeship": "wielkopolskie",
+    "Population": 74151
+  },
+  {
+    "City": "Piotrków Trybunalski",
+    "Voivodeship": "łódzkie",
+    "Population": 73670
+  },
+  {
+    "City": "Piła",
+    "Voivodeship": "wielkopolskie",
+    "Population": 73398
+  },
+  {
+    "City": "Inowrocław",
+    "Voivodeship": "kujawsko-pomorskie",
+    "Population": 73114
+  },
+  {
+    "City": "Lubin",
+    "Voivodeship": "dolnośląskie",
+    "Population": 72581
+  },
+  {
+    "City": "Ostrów Wielkopolski",
+    "Voivodeship": "wielkopolskie",
+    "Population": 72050
+  },
+  {
+    "City": "Suwałki",
+    "Voivodeship": "podlaskie",
+    "Population": 69827
+  },
+  {
+    "City": "Ostrowiec Świętokrzyski",
+    "Voivodeship": "świętokrzyskie",
+    "Population": 69051
+  },
+  {
+    "City": "Gniezno",
+    "Voivodeship": "wielkopolskie",
+    "Population": 68479
+  },
+  {
+    "City": "Stargard",
+    "Voivodeship": "zachodniopomorskie",
+    "Population": 67938
+  },
+  {
+    "City": "Głogów",
+    "Voivodeship": "dolnośląskie",
+    "Population": 67615
+  },
+  {
+    "City": "Siemianowice Śląskie",
+    "Voivodeship": "śląskie",
+    "Population": 67154
+  },
+  {
+    "City": "Pabianice",
+    "Voivodeship": "łódzkie",
+    "Population": 65283
+  },
+  {
+    "City": "Leszno",
+    "Voivodeship": "wielkopolskie",
+    "Population": 63952
+  },
+  {
+    "City": "Zamość",
+    "Voivodeship": "lubelskie",
+    "Population": 63813
+  },
+  {
+    "City": "Łomża",
+    "Voivodeship": "podlaskie",
+    "Population": 63000
+  },
+  {
+    "City": "Chełm",
+    "Voivodeship": "lubelskie",
+    "Population": 62670
+  },
+  {
+    "City": "Tomaszów Mazowiecki",
+    "Voivodeship": "łódzkie",
+    "Population": 62649
+  },
+  {
+    "City": "Żory",
+    "Voivodeship": "śląskie",
+    "Population": 62456
+  },
+  {
+    "City": "Ełk",
+    "Voivodeship": "warmińsko-mazurskie",
+    "Population": 61928
+  },
+  {
+    "City": "Pruszków",
+    "Voivodeship": "mazowieckie",
+    "Population": 61784
+  },
+  {
+    "City": "Tarnowskie Góry",
+    "Voivodeship": "śląskie",
+    "Population": 61361
+  },
+  {
+    "City": "Przemyśl",
+    "Voivodeship": "podkarpackie",
+    "Population": 61251
+  },
+  {
+    "City": "Stalowa Wola",
+    "Voivodeship": "podkarpackie",
+    "Population": 61182
+  },
+  {
+    "City": "Kędzierzyn-Koźle",
+    "Voivodeship": "opolskie",
+    "Population": 61062
+  },
+  {
+    "City": "Mielec",
+    "Voivodeship": "podkarpackie",
+    "Population": 60478
+  },
+  {
+    "City": "Tczew",
+    "Voivodeship": "pomorskie",
+    "Population": 60279
+  },
+  {
+    "City": "Bełchatów",
+    "Voivodeship": "łódzkie",
+    "Population": 57432
+  },
+  {
+    "City": "Biała Podlaska",
+    "Voivodeship": "lubelskie",
+    "Population": 57352
+  },
+  {
+    "City": "Świdnica",
+    "Voivodeship": "dolnośląskie",
+    "Population": 57310
+  },
+  {
+    "City": "Będzin",
+    "Voivodeship": "śląskie",
+    "Population": 56804
+  },
+  {
+    "City": "Zgierz",
+    "Voivodeship": "łódzkie",
+    "Population": 56529
+  },
+  {
+    "City": "Piekary Śląskie",
+    "Voivodeship": "śląskie",
+    "Population": 55299
+  },
+  {
+    "City": "Racibórz",
+    "Voivodeship": "śląskie",
+    "Population": 54882
+  },
+  {
+    "City": "Legionowo",
+    "Voivodeship": "mazowieckie",
+    "Population": 54066
+  },
+  {
+    "City": "Ostrołęka",
+    "Voivodeship": "mazowieckie",
+    "Population": 52262
+  },
+  {
+    "City": "Świętochłowice",
+    "Voivodeship": "śląskie",
+    "Population": 50012
+  },
+  {
+    "City": "Wejherowo",
+    "Voivodeship": "pomorskie",
+    "Population": 49789
+  },
+  {
+    "City": "Zawiercie",
+    "Voivodeship": "śląskie",
+    "Population": 49567
+  },
+  {
+    "City": "Rumia",
+    "Voivodeship": "pomorskie",
+    "Population": 49031
+  },
+  {
+    "City": "Starachowice",
+    "Voivodeship": "świętokrzyskie",
+    "Population": 48965
+  },
+  {
+    "City": "Skierniewice",
+    "Voivodeship": "łódzkie",
+    "Population": 48178
+  },
+  {
+    "City": "Wodzisław Śląski",
+    "Voivodeship": "śląskie",
+    "Population": 48143
+  },
+  {
+    "City": "Piaseczno",
+    "Voivodeship": "mazowieckie",
+    "Population": 48119
+  },
+  {
+    "City": "Starogard Gdański",
+    "Voivodeship": "pomorskie",
+    "Population": 47776
+  },
+  {
+    "City": "Puławy",
+    "Voivodeship": "lubelskie",
+    "Population": 47774
+  },
+  {
+    "City": "Tarnobrzeg",
+    "Voivodeship": "podkarpackie",
+    "Population": 47047
+  },
+  {
+    "City": "Krosno",
+    "Voivodeship": "podkarpackie",
+    "Population": 46511
+  },
+  {
+    "City": "Kołobrzeg",
+    "Voivodeship": "zachodniopomorskie",
+    "Population": 46367
+  },
+  {
+    "City": "Radomsko",
+    "Voivodeship": "łódzkie",
+    "Population": 46087
+  },
+  {
+    "City": "Dębica",
+    "Voivodeship": "podkarpackie",
+    "Population": 45817
+  },
+  {
+    "City": "Skarżysko-Kamienna",
+    "Voivodeship": "świętokrzyskie",
+    "Population": 45358
+  },
+  {
+    "City": "Otwock",
+    "Voivodeship": "mazowieckie",
+    "Population": 44880
+  }
+]
