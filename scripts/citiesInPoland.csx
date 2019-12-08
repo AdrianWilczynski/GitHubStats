@@ -5,6 +5,7 @@
 #r "nuget: morelinq, 3.2.0"
 
 #load "shared.csx"
+#load "englishCityNames.csx"
 
 using System.Text.RegularExpressions;
 using AngleSharp;
@@ -21,13 +22,22 @@ private var document = await BrowsingContext.New(Configuration.Default.WithDefau
 private var cities = document.QuerySelectorAll("table.sortable.wikitable tr:not(:first-child)")
     .Select(row => new
     {
-        City = SquashWhitespace(row.QuerySelector("td:first-child").TextContent),
+        Name = SquashWhitespace(row.QuerySelector("td:first-child").TextContent),
         Voivodeship = SquashWhitespace(row.QuerySelector("td:nth-child(3)").TextContent),
         Population = int.Parse(row.QuerySelector("td:nth-child(5)").TextContent)
     })
     .OrderByDescending(c => c.Population)
     .Take(100)
-    .Pipe(c => WriteLine($"City: {c.City}, Voivodeship: {c.Voivodeship}, Population: {c.Population}"));
+    .Select(c => new
+    {
+        c.Name,
+        EnglishNames = GetEnglishNames(c.Name)
+            .Where(n => n != c.Name),
+        c.Voivodeship,
+        c.Population
+    })
+    .Pipe(c => WriteLine($"Name: {c.Name}, English Names: {string.Join(", ", c.EnglishNames)},"
+        + $"Voivodeship: {c.Voivodeship}, Population: {c.Population}"));
 
 File.WriteAllText(
     GetDataFilePath("citiesInPoland.json"),

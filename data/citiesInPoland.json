@@ -1,501 +1,720 @@
 [
   {
-    "City": "Warszawa",
+    "Name": "Warszawa",
+    "EnglishNames": [
+      "Warsaw"
+    ],
     "Voivodeship": "mazowieckie",
     "Population": 1777972
   },
   {
-    "City": "Kraków",
+    "Name": "Kraków",
+    "EnglishNames": [
+      "Cracow",
+      "Krakow"
+    ],
     "Voivodeship": "małopolskie",
     "Population": 771069
   },
   {
-    "City": "Łódź",
+    "Name": "Łódź",
+    "EnglishNames": [
+      "Lodz"
+    ],
     "Voivodeship": "łódzkie",
     "Population": 685285
   },
   {
-    "City": "Wrocław",
+    "Name": "Wrocław",
+    "EnglishNames": [
+      "Wroclaw"
+    ],
     "Voivodeship": "dolnośląskie",
     "Population": 640648
   },
   {
-    "City": "Poznań",
+    "Name": "Poznań",
+    "EnglishNames": [
+      "Poznan"
+    ],
     "Voivodeship": "wielkopolskie",
     "Population": 536438
   },
   {
-    "City": "Gdańsk",
+    "Name": "Gdańsk",
+    "EnglishNames": [
+      "Gdansk"
+    ],
     "Voivodeship": "pomorskie",
     "Population": 466631
   },
   {
-    "City": "Szczecin",
+    "Name": "Szczecin",
+    "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 402465
   },
   {
-    "City": "Bydgoszcz",
+    "Name": "Bydgoszcz",
+    "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 350178
   },
   {
-    "City": "Lublin",
+    "Name": "Lublin",
+    "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 339682
   },
   {
-    "City": "Białystok",
+    "Name": "Białystok",
+    "EnglishNames": [
+      "Bialystok"
+    ],
     "Voivodeship": "podlaskie",
     "Population": 297459
   },
   {
-    "City": "Katowice",
+    "Name": "Katowice",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 294510
   },
   {
-    "City": "Gdynia",
+    "Name": "Gdynia",
+    "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 246309
   },
   {
-    "City": "Częstochowa",
+    "Name": "Częstochowa",
+    "EnglishNames": [
+      "Czestochowa"
+    ],
     "Voivodeship": "śląskie",
     "Population": 222292
   },
   {
-    "City": "Radom",
+    "Name": "Radom",
+    "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 213029
   },
   {
-    "City": "Toruń",
+    "Name": "Toruń",
+    "EnglishNames": [
+      "Torun"
+    ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 202074
   },
   {
-    "City": "Sosnowiec",
+    "Name": "Sosnowiec",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 202036
   },
   {
-    "City": "Kielce",
+    "Name": "Kielce",
+    "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 195774
   },
   {
-    "City": "Rzeszów",
+    "Name": "Rzeszów",
+    "EnglishNames": [
+      "Rzeszow"
+    ],
     "Voivodeship": "podkarpackie",
     "Population": 193883
   },
   {
-    "City": "Gliwice",
+    "Name": "Gliwice",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 179806
   },
   {
-    "City": "Zabrze",
+    "Name": "Zabrze",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 173374
   },
   {
-    "City": "Olsztyn",
+    "Name": "Olsztyn",
+    "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 172362
   },
   {
-    "City": "Bielsko-Biała",
+    "Name": "Bielsko-Biała",
+    "EnglishNames": [
+      "Bielsko-Biala"
+    ],
     "Voivodeship": "śląskie",
     "Population": 171259
   },
   {
-    "City": "Bytom",
+    "Name": "Bytom",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 166795
   },
   {
-    "City": "Zielona Góra",
+    "Name": "Zielona Góra",
+    "EnglishNames": [
+      "Zielona Gora"
+    ],
     "Voivodeship": "lubuskie",
     "Population": 140297
   },
   {
-    "City": "Rybnik",
+    "Name": "Rybnik",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 138696
   },
   {
-    "City": "Ruda Śląska",
+    "Name": "Ruda Śląska",
+    "EnglishNames": [
+      "Ruda Slaska"
+    ],
     "Voivodeship": "śląskie",
     "Population": 138000
   },
   {
-    "City": "Opole",
+    "Name": "Opole",
+    "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 128137
   },
   {
-    "City": "Tychy",
+    "Name": "Tychy",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 127831
   },
   {
-    "City": "Gorzów Wielkopolski",
+    "Name": "Gorzów Wielkopolski",
+    "EnglishNames": [
+      "Gorzow Wielkopolski"
+    ],
     "Voivodeship": "lubuskie",
     "Population": 123921
   },
   {
-    "City": "Dąbrowa Górnicza",
+    "Name": "Dąbrowa Górnicza",
+    "EnglishNames": [
+      "Dabrowa Gornicza"
+    ],
     "Voivodeship": "śląskie",
     "Population": 120259
   },
   {
-    "City": "Elbląg",
+    "Name": "Elbląg",
+    "EnglishNames": [
+      "Elblag"
+    ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 120142
   },
   {
-    "City": "Płock",
+    "Name": "Płock",
+    "EnglishNames": [
+      "Plock"
+    ],
     "Voivodeship": "mazowieckie",
     "Population": 120000
   },
   {
-    "City": "Wałbrzych",
+    "Name": "Wałbrzych",
+    "EnglishNames": [
+      "Walbrzych"
+    ],
     "Voivodeship": "dolnośląskie",
     "Population": 112594
   },
   {
-    "City": "Włocławek",
+    "Name": "Włocławek",
+    "EnglishNames": [
+      "Wloclawek"
+    ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 110802
   },
   {
-    "City": "Tarnów",
+    "Name": "Tarnów",
+    "EnglishNames": [
+      "Tarnow"
+    ],
     "Voivodeship": "małopolskie",
     "Population": 109062
   },
   {
-    "City": "Chorzów",
+    "Name": "Chorzów",
+    "EnglishNames": [
+      "Chorzow"
+    ],
     "Voivodeship": "śląskie",
     "Population": 108434
   },
   {
-    "City": "Koszalin",
+    "Name": "Koszalin",
+    "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 107321
   },
   {
-    "City": "Kalisz",
+    "Name": "Kalisz",
+    "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 100975
   },
   {
-    "City": "Legnica",
+    "Name": "Legnica",
+    "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 99752
   },
   {
-    "City": "Grudziądz",
+    "Name": "Grudziądz",
+    "EnglishNames": [
+      "Grudziadz"
+    ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 95045
   },
   {
-    "City": "Jaworzno",
+    "Name": "Jaworzno",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 91563
   },
   {
-    "City": "Słupsk",
+    "Name": "Słupsk",
+    "EnglishNames": [
+      "Slupsk"
+    ],
     "Voivodeship": "pomorskie",
     "Population": 91007
   },
   {
-    "City": "Jastrzębie-Zdrój",
+    "Name": "Jastrzębie-Zdrój",
+    "EnglishNames": [
+      "Jastrzebie-Zdroj"
+    ],
     "Voivodeship": "śląskie",
     "Population": 89128
   },
   {
-    "City": "Nowy Sącz",
+    "Name": "Nowy Sącz",
+    "EnglishNames": [
+      "Nowy Sacz"
+    ],
     "Voivodeship": "małopolskie",
     "Population": 83896
   },
   {
-    "City": "Jelenia Góra",
+    "Name": "Jelenia Góra",
+    "EnglishNames": [
+      "Jelenia Gora"
+    ],
     "Voivodeship": "dolnośląskie",
     "Population": 79480
   },
   {
-    "City": "Siedlce",
+    "Name": "Siedlce",
+    "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 77872
   },
   {
-    "City": "Mysłowice",
+    "Name": "Mysłowice",
+    "EnglishNames": [
+      "Myslowice"
+    ],
     "Voivodeship": "śląskie",
     "Population": 74586
   },
   {
-    "City": "Konin",
+    "Name": "Konin",
+    "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 74151
   },
   {
-    "City": "Piotrków Trybunalski",
+    "Name": "Piotrków Trybunalski",
+    "EnglishNames": [
+      "Piotrkow Trybunalski"
+    ],
     "Voivodeship": "łódzkie",
     "Population": 73670
   },
   {
-    "City": "Piła",
+    "Name": "Piła",
+    "EnglishNames": [
+      "Pila"
+    ],
     "Voivodeship": "wielkopolskie",
     "Population": 73398
   },
   {
-    "City": "Inowrocław",
+    "Name": "Inowrocław",
+    "EnglishNames": [
+      "Inowroclaw"
+    ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 73114
   },
   {
-    "City": "Lubin",
+    "Name": "Lubin",
+    "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 72581
   },
   {
-    "City": "Ostrów Wielkopolski",
+    "Name": "Ostrów Wielkopolski",
+    "EnglishNames": [
+      "Ostrow Wielkopolski"
+    ],
     "Voivodeship": "wielkopolskie",
     "Population": 72050
   },
   {
-    "City": "Suwałki",
+    "Name": "Suwałki",
+    "EnglishNames": [
+      "Suwalki"
+    ],
     "Voivodeship": "podlaskie",
     "Population": 69827
   },
   {
-    "City": "Ostrowiec Świętokrzyski",
+    "Name": "Ostrowiec Świętokrzyski",
+    "EnglishNames": [
+      "Ostrowiec Swietokrzyski"
+    ],
     "Voivodeship": "świętokrzyskie",
     "Population": 69051
   },
   {
-    "City": "Gniezno",
+    "Name": "Gniezno",
+    "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 68479
   },
   {
-    "City": "Stargard",
+    "Name": "Stargard",
+    "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 67938
   },
   {
-    "City": "Głogów",
+    "Name": "Głogów",
+    "EnglishNames": [
+      "Glogow"
+    ],
     "Voivodeship": "dolnośląskie",
     "Population": 67615
   },
   {
-    "City": "Siemianowice Śląskie",
+    "Name": "Siemianowice Śląskie",
+    "EnglishNames": [
+      "Siemianowice Slaskie"
+    ],
     "Voivodeship": "śląskie",
     "Population": 67154
   },
   {
-    "City": "Pabianice",
+    "Name": "Pabianice",
+    "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 65283
   },
   {
-    "City": "Leszno",
+    "Name": "Leszno",
+    "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 63952
   },
   {
-    "City": "Zamość",
+    "Name": "Zamość",
+    "EnglishNames": [
+      "Zamosc"
+    ],
     "Voivodeship": "lubelskie",
     "Population": 63813
   },
   {
-    "City": "Łomża",
+    "Name": "Łomża",
+    "EnglishNames": [
+      "Lomza"
+    ],
     "Voivodeship": "podlaskie",
     "Population": 63000
   },
   {
-    "City": "Chełm",
+    "Name": "Chełm",
+    "EnglishNames": [
+      "Chelm"
+    ],
     "Voivodeship": "lubelskie",
     "Population": 62670
   },
   {
-    "City": "Tomaszów Mazowiecki",
+    "Name": "Tomaszów Mazowiecki",
+    "EnglishNames": [
+      "Tomaszow Mazowiecki"
+    ],
     "Voivodeship": "łódzkie",
     "Population": 62649
   },
   {
-    "City": "Żory",
+    "Name": "Żory",
+    "EnglishNames": [
+      "Zory"
+    ],
     "Voivodeship": "śląskie",
     "Population": 62456
   },
   {
-    "City": "Ełk",
+    "Name": "Ełk",
+    "EnglishNames": [
+      "Elk"
+    ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 61928
   },
   {
-    "City": "Pruszków",
+    "Name": "Pruszków",
+    "EnglishNames": [
+      "Pruszkow"
+    ],
     "Voivodeship": "mazowieckie",
     "Population": 61784
   },
   {
-    "City": "Tarnowskie Góry",
+    "Name": "Tarnowskie Góry",
+    "EnglishNames": [
+      "Tarnowskie Gory"
+    ],
     "Voivodeship": "śląskie",
     "Population": 61361
   },
   {
-    "City": "Przemyśl",
+    "Name": "Przemyśl",
+    "EnglishNames": [
+      "Przemysl"
+    ],
     "Voivodeship": "podkarpackie",
     "Population": 61251
   },
   {
-    "City": "Stalowa Wola",
+    "Name": "Stalowa Wola",
+    "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 61182
   },
   {
-    "City": "Kędzierzyn-Koźle",
+    "Name": "Kędzierzyn-Koźle",
+    "EnglishNames": [
+      "Kedzierzyn-Kozle"
+    ],
     "Voivodeship": "opolskie",
     "Population": 61062
   },
   {
-    "City": "Mielec",
+    "Name": "Mielec",
+    "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 60478
   },
   {
-    "City": "Tczew",
+    "Name": "Tczew",
+    "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 60279
   },
   {
-    "City": "Bełchatów",
+    "Name": "Bełchatów",
+    "EnglishNames": [
+      "Belchatow"
+    ],
     "Voivodeship": "łódzkie",
     "Population": 57432
   },
   {
-    "City": "Biała Podlaska",
+    "Name": "Biała Podlaska",
+    "EnglishNames": [
+      "Biala Podlaska"
+    ],
     "Voivodeship": "lubelskie",
     "Population": 57352
   },
   {
-    "City": "Świdnica",
+    "Name": "Świdnica",
+    "EnglishNames": [
+      "Swidnica"
+    ],
     "Voivodeship": "dolnośląskie",
     "Population": 57310
   },
   {
-    "City": "Będzin",
+    "Name": "Będzin",
+    "EnglishNames": [
+      "Bedzin"
+    ],
     "Voivodeship": "śląskie",
     "Population": 56804
   },
   {
-    "City": "Zgierz",
+    "Name": "Zgierz",
+    "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 56529
   },
   {
-    "City": "Piekary Śląskie",
+    "Name": "Piekary Śląskie",
+    "EnglishNames": [
+      "Piekary Slaskie"
+    ],
     "Voivodeship": "śląskie",
     "Population": 55299
   },
   {
-    "City": "Racibórz",
+    "Name": "Racibórz",
+    "EnglishNames": [
+      "Raciborz"
+    ],
     "Voivodeship": "śląskie",
     "Population": 54882
   },
   {
-    "City": "Legionowo",
+    "Name": "Legionowo",
+    "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 54066
   },
   {
-    "City": "Ostrołęka",
+    "Name": "Ostrołęka",
+    "EnglishNames": [
+      "Ostroleka"
+    ],
     "Voivodeship": "mazowieckie",
     "Population": 52262
   },
   {
-    "City": "Świętochłowice",
+    "Name": "Świętochłowice",
+    "EnglishNames": [
+      "Swietochlowice"
+    ],
     "Voivodeship": "śląskie",
     "Population": 50012
   },
   {
-    "City": "Wejherowo",
+    "Name": "Wejherowo",
+    "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 49789
   },
   {
-    "City": "Zawiercie",
+    "Name": "Zawiercie",
+    "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 49567
   },
   {
-    "City": "Rumia",
+    "Name": "Rumia",
+    "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 49031
   },
   {
-    "City": "Starachowice",
+    "Name": "Starachowice",
+    "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 48965
   },
   {
-    "City": "Skierniewice",
+    "Name": "Skierniewice",
+    "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 48178
   },
   {
-    "City": "Wodzisław Śląski",
+    "Name": "Wodzisław Śląski",
+    "EnglishNames": [
+      "Wodzislaw Slaski"
+    ],
     "Voivodeship": "śląskie",
     "Population": 48143
   },
   {
-    "City": "Piaseczno",
+    "Name": "Piaseczno",
+    "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 48119
   },
   {
-    "City": "Starogard Gdański",
+    "Name": "Starogard Gdański",
+    "EnglishNames": [
+      "Starogard Gdanski"
+    ],
     "Voivodeship": "pomorskie",
     "Population": 47776
   },
   {
-    "City": "Puławy",
+    "Name": "Puławy",
+    "EnglishNames": [
+      "Pulawy"
+    ],
     "Voivodeship": "lubelskie",
     "Population": 47774
   },
   {
-    "City": "Tarnobrzeg",
+    "Name": "Tarnobrzeg",
+    "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 47047
   },
   {
-    "City": "Krosno",
+    "Name": "Krosno",
+    "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 46511
   },
   {
-    "City": "Kołobrzeg",
+    "Name": "Kołobrzeg",
+    "EnglishNames": [
+      "Kolobrzeg"
+    ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 46367
   },
   {
-    "City": "Radomsko",
+    "Name": "Radomsko",
+    "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 46087
   },
   {
-    "City": "Dębica",
+    "Name": "Dębica",
+    "EnglishNames": [
+      "Debica"
+    ],
     "Voivodeship": "podkarpackie",
     "Population": 45817
   },
   {
-    "City": "Skarżysko-Kamienna",
+    "Name": "Skarżysko-Kamienna",
+    "EnglishNames": [
+      "Skarzysko-Kamienna"
+    ],
     "Voivodeship": "świętokrzyskie",
     "Population": 45358
   },
   {
-    "City": "Otwock",
+    "Name": "Otwock",
+    "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 44880
   }
