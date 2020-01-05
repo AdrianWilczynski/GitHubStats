@@ -1,44 +1,62 @@
-#pragma warning disable RCS1090
+#pragma warning disable RCS1090, RCS1110
 
 #r "nuget: AngleSharp,  0.13.0"
-#r "nuget: Newtonsoft.Json, 12.0.3"
-#r "nuget: morelinq, 3.2.0"
-
-#load "shared.csx"
-#load "englishCityNames.csx"
 
 using System.Text.RegularExpressions;
 using AngleSharp;
-using MoreLinq;
-using Newtonsoft.Json;
 
-private static string SquashWhitespace(string text)
-    => Regex.Replace(text, @"\s+", " ")
-        .Trim();
+public class City
+{
+    public string Name { get; set; }
+    public IEnumerable<string> EnglishNames { get; set; }
+    public string Voivodeship { get; set; }
+    public int Population { get; set; }
 
-private var document = await BrowsingContext.New(Configuration.Default.WithDefaultLoader())
-    .OpenAsync("https://pl.wikipedia.org/wiki/Dane_statystyczne_o_miastach_w_Polsce");
+    public int? DeveloperCount { get; set; }
+}
 
-private var cities = document.QuerySelectorAll("table.sortable.wikitable tr:not(:first-child)")
-    .Select(row => new
+public async Task<IEnumerable<City>> GetCitiesAsync()
+{
+    static string SquashWhitespace(string text) => Regex.Replace(text, @"\s+", " ").Trim();
+
+    var document = await BrowsingContext.New(Configuration.Default.WithDefaultLoader())
+       .OpenAsync("https://pl.wikipedia.org/wiki/Dane_statystyczne_o_miastach_w_Polsce");
+
+    return (from row in document.QuerySelectorAll("table.sortable.wikitable tr:not(:first-child)")
+            let name = SquashWhitespace(row.QuerySelector("td:first-child").TextContent)
+            let population = int.Parse(row.QuerySelector("td:nth-child(5)").TextContent)
+            orderby population descending
+            select new City
+            {
+                Name = name,
+                EnglishNames = GetEnglishNames(name),
+                Voivodeship = SquashWhitespace(row.QuerySelector("td:nth-child(3)").TextContent),
+                Population = population
+            }).ToList();
+}
+
+private IEnumerable<string> GetEnglishNames(string name)
+{
+    var HardcodedNames = new Dictionary<string, string>
     {
-        Name = SquashWhitespace(row.QuerySelector("td:first-child").TextContent),
-        Voivodeship = SquashWhitespace(row.QuerySelector("td:nth-child(3)").TextContent),
-        Population = int.Parse(row.QuerySelector("td:nth-child(5)").TextContent)
-    })
-    .OrderByDescending(c => c.Population)
-    .Take(100)
-    .Select(c => new
-    {
-        c.Name,
-        EnglishNames = GetEnglishNames(c.Name)
-            .Where(n => n != c.Name),
-        c.Voivodeship,
-        c.Population
-    })
-    .Pipe(c => WriteLine($"Name: {c.Name}, English Names: {string.Join(", ", c.EnglishNames)},"
-        + $"Voivodeship: {c.Voivodeship}, Population: {c.Population}"));
+        { "Warszawa", "Warsaw" },
+        { "Kraków", "Cracow" }
+    };
 
-File.WriteAllText(
-    GetDataFilePath("citiesInPoland.json"),
-    JsonConvert.SerializeObject(cities, Formatting.Indented));
+    if (HardcodedNames.TryGetValue(name, out var hardcodedName))
+        yield return hardcodedName;
+
+    static string RemovePolishCharacters(string name)
+        => name.Replace("ą", "a").Replace("Ą", "A")
+            .Replace("ć", "c").Replace("Ć", "C")
+            .Replace("ę", "e").Replace("Ę", "E")
+            .Replace("ł", "l").Replace("Ł", "L")
+            .Replace("ń", "n").Replace("Ń", "N")
+            .Replace("ó", "o").Replace("Ó", "O")
+            .Replace("ś", "s").Replace("Ś", "S")
+            .Replace("ź", "z").Replace("Ź", "Z")
+            .Replace("ż", "z").Replace("Ż", "Z");
+
+    if (RemovePolishCharacters(name) is var withRemovedPolishChracters && withRemovedPolishChracters != name)
+        yield return withRemovedPolishChracters;
+}

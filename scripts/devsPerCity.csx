@@ -2,52 +2,65 @@
 
 #r "nuget: Newtonsoft.Json, 12.0.3"
 #r "nuget: Flurl.Http, 2.4.2"
-#r "nuget: morelinq, 3.2.0"
 #r "nuget: System.Linq.Async, 4.0.0"
 
 #load "shared.csx"
+#load "citiesInPoland.csx"
 
 using Flurl;
 using Flurl.Http;
-using MoreLinq;
 using Newtonsoft.Json;
+using System.Linq;
 
 private const int RequestsPerMinuteRateLimit = 30;
 
 private var userName = Args[0];
 private var token = Args[1];
 
-private var cities = JsonConvert.DeserializeObject<IEnumerable<dynamic>>(
-        File.ReadAllText(GetDataFilePath("citiesInPoland.json")))
-    .Select(c => (string)c.City);
-
-private async IAsyncEnumerable<dynamic> GetDevCount(IEnumerable<string> cities)
+private async IAsyncEnumerable<City> GetDevCount(IEnumerable<City> cities)
 {
-    var batches = cities.Batch(RequestsPerMinuteRateLimit);
-    foreach (var (index, batch) in batches.Index())
+    var requestCount = 0;
+
+    foreach (var city in cities)
     {
-        foreach (var city in batch)
+        WriteLine($"Requesting developer count for: {city.Name}");
+
+        var names = new[] { city.Name }.Concat(city.EnglishNames);
+        var totalCount = 0;
+
+        foreach (var name in names)
         {
+            if (requestCount == RequestsPerMinuteRateLimit)
+            {
+                WriteLine("--- Waiting for rate limit refresh ---");
+
+                await Task.Delay(TimeSpan.FromMinutes(1));
+                requestCount = 0;
+            }
+
             var response = await "https://api.github.com/search/users"
-                .SetQueryParams(new { q = $@"location:""{city}""" })
+                .SetQueryParams(new { q = $@"location:""{name}""" })
                 .WithHeader("User-Agent", "GitHubStats")
                 .WithBasicAuth(userName, token)
                 .GetJsonAsync();
 
-            var devCount = response.total_count;
+            var count = response.total_count;
+            totalCount += count;
 
-            WriteLine($"City: {city}, DevCount: {devCount}");
-            yield return new { City = city, DevCount = devCount };
+            requestCount++;
+
+            WriteLine($"Name = {name}, Count = {count}, Total Count = {totalCount}, Request = {requestCount}");
         }
 
-        if (index != batches.Count() - 1)
-        {
-            WriteLine("--- Waiting for rate limit refresh ---");
-            await Task.Delay(TimeSpan.FromMinutes(1));
-        }
+        city.DeveloperCount = totalCount;
+
+        yield return city;
     }
 }
 
+private var cites = (await GetCitiesAsync());
+private var citiesWithDevCount = await GetDevCount(cites).ToListAsync();
+
 File.WriteAllText(
-    GetDataFilePath("devsPerCity.json"),
-    JsonConvert.SerializeObject(await GetDevCount(cities).ToListAsync(), Formatting.Indented))
+    GetDataFilePath("cities.json"),
+    JsonConvert.SerializeObject(citiesWithDevCount, Formatting.Indented))
