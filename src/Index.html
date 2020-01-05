@@ -10,17 +10,21 @@
     <title>GitHub Stats</title>
 </head>
 
-<body>
+<body style="min-width: 800px;">
     <img src="github.svg" alt="GitHub" style="width: 200px; margin: 25px auto; display: block;">
 
-    <div class="p-5">
-        <h1>Voivodeships</h1>
-        <canvas id="voivodeshipsPieChart" height="75"></canvas>
+    <div class="mt-5">
+        <h1 class="text-center">Voivodeships</h1>
+        <div class="d-flex justify-content-center">
+            <canvas id="voivodeshipsPieChart" height="500" width="500"></canvas>
+        </div>
     </div>
 
-    <div class="p-5">
-        <h1>Towns & Cities</h1>
-        <div id="citiesGrid" style="height: 500px;" class="ag-theme-material "></div>
+    <div class="my-5">
+        <h1 class="text-center">Towns & Cities</h1>
+        <div class="d-flex justify-content-center">
+            <div id="citiesGrid" style="height: 500px; width: 1000px;" class="ag-theme-material "></div>
+        </div>
     </div>
 
     <script src="main.js"></script>

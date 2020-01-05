@@ -20,6 +20,7 @@ export async function Init() {
             ]
         },
         options: {
+            responsive: false,
             plugins: {
                 colorschemes: {
                     scheme: 'tableau.JewelBright9'
