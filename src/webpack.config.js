@@ -33,6 +33,7 @@ const config = {
         new CopyPlugin([
             { from: './*.html' },
             { from: './../data/*.json', flatten: true },
+            { from: './assets/*.*', flatten: true },
         ]),
     ]
 };
