@@ -33,7 +33,8 @@ export async function Init() {
         defaultColDef: {
             sortable: true,
             filter: true
-        }
+        },
+        onGridReady: e => e.api.sizeColumnsToFit()
     };
 
     const citiesGrid = document.getElementById('citiesGrid') as HTMLElement;
