@@ -1,19 +1,9 @@
-#pragma warning disable RCS1090, RCS1110
-
 #r "nuget: AngleSharp,  0.13.0"
+
+#load "models.csx"
 
 using System.Text.RegularExpressions;
 using AngleSharp;
-
-public class City
-{
-    public string Name { get; set; }
-    public IEnumerable<string> EnglishNames { get; set; }
-    public string Voivodeship { get; set; }
-    public int Population { get; set; }
-
-    public int? DeveloperCount { get; set; }
-}
 
 public async Task<IEnumerable<City>> GetCitiesAsync()
 {

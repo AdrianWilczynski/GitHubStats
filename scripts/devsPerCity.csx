@@ -1,15 +1,12 @@
-#pragma warning disable RCS1090
-
-#r "nuget: Newtonsoft.Json, 12.0.3"
 #r "nuget: Flurl.Http, 2.4.2"
 #r "nuget: System.Linq.Async, 4.0.0"
 
-#load "shared.csx"
+#load "env.csx"
+#load "models.csx"
 #load "citiesInPoland.csx"
 
 using Flurl;
 using Flurl.Http;
-using Newtonsoft.Json;
 using System.Linq;
 
 private const int RequestsPerMinuteRateLimit = 30;
@@ -61,6 +58,4 @@ private async IAsyncEnumerable<City> GetDevCount(IEnumerable<City> cities)
 private var cites = (await GetCitiesAsync());
 private var citiesWithDevCount = await GetDevCount(cites).ToListAsync();
 
-File.WriteAllText(
-    GetDataFilePath("cities.json"),
-    JsonConvert.SerializeObject(citiesWithDevCount, Formatting.Indented))
+SaveDataFile("cities", citiesWithDevCount);
