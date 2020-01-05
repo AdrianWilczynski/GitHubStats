@@ -1,14 +1,7 @@
 import Chart from 'chart.js';
+import { Voivodeship } from './data';
 
-interface Voivodeship {
-    Name: string;
-    DeveloperCount: number;
-}
-
-export async function Init() {
-    const response = await fetch('voivodeships.json');
-    const voivodeships = await response.json() as Voivodeship[];
-
+export function Init(voivodeships: Voivodeship[]) {
     new Chart('voivodeshipsPieChart', {
         type: 'pie',
         data: {
