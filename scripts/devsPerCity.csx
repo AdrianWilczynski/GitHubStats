@@ -1,7 +1,7 @@
 #r "nuget: Flurl.Http, 2.4.2"
 #r "nuget: System.Linq.Async, 4.0.0"
 
-#load "env.csx"
+#load "shared.csx"
 #load "models.csx"
 #load "citiesInPoland.csx"
 

@@ -1,7 +1,7 @@
 #r "nuget: Flurl.Http, 2.4.2"
 #r "nuget: Newtonsoft.Json, 12.0.3"
 
-#load "env.csx"
+#load "shared.csx"
 #load "models.csx"
 #load "citiesInPoland.csx"
 
@@ -22,7 +22,6 @@ SaveDataFile($"devsIn{city}", await GetUsers(city, userName, token));
 
 private static async Task<IEnumerable<string>> GetUsers(string city, string userName, string token)
 {
-    HttpResponseMessage response;
     int requestCount = 0;
 
     var cityNames = new[] { city }.Concat(GetEnglishNames(city));
@@ -31,6 +30,7 @@ private static async Task<IEnumerable<string>> GetUsers(string city, string user
 
     foreach (var name in cityNames)
     {
+        HttpResponseMessage response;
         int page = 0;
 
         WriteLine(name);
@@ -64,8 +64,3 @@ private static async Task<IEnumerable<string>> GetUsers(string city, string user
 
     return users;
 }
-
-private static bool HasNextPage(HttpResponseMessage response)
-    => response.Headers
-        .FirstOrDefault(h => h.Key == "Link").Value
-        .Any(l => l.Contains("rel=\"next\""));
