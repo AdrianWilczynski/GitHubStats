@@ -3,9 +3,12 @@
 
 using System.Linq;
 
-private var cities = LoadDataFile<IEnumerable<City>>("cities");
+private var input = Args[0];
+private var output = Args[1];
 
-SaveDataFile("data", new Data
+private var cities = LoadDataFile<IEnumerable<City>>(input);
+
+SaveDataFile(output, new Data
 {
     Total = CalculateTotals(cities),
     Voivodeships = GroupByVoivodeship(cities)

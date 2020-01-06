@@ -13,6 +13,7 @@ private var userName = Args[0];
 private var token = Args[1];
 
 private var input = Args[2];
+private var output = Args[3];
 
 private var logins = LoadDataFile<IEnumerable<string>>(input);
 
@@ -47,4 +48,4 @@ foreach (var login in logins)
     repositories[login] = repositoriesPerLogin;
 }
 
-SaveDataFile($"{input}-repositories", repositories);
+SaveDataFile(output, repositories);

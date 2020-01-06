@@ -8,7 +8,7 @@ public static string GetScriptFolder([CallerFilePath] string path = null)
     => Path.GetDirectoryName(path);
 
 public static string GetDataFilePath(string name)
-    => Path.Join(GetScriptFolder(), "..", "data", name + ".json");
+    => Path.Join(GetScriptFolder(), "..", "data", name);
 
 public static void SaveDataFile<T>(string name, T content)
     => File.WriteAllText(GetDataFilePath(name), JsonConvert.SerializeObject(content, Formatting.Indented));

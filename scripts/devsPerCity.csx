@@ -14,6 +14,13 @@ private const int RequestsPerMinuteRateLimit = 30;
 private var userName = Args[0];
 private var token = Args[1];
 
+private var output = Args[2];
+
+private var cites = (await GetCitiesAsync());
+private var citiesWithDevCount = await GetDevCount(cites).ToListAsync();
+
+SaveDataFile(output, citiesWithDevCount);
+
 private async IAsyncEnumerable<City> GetDevCount(IEnumerable<City> cities)
 {
     var requestCount = 0;
@@ -55,8 +62,3 @@ private async IAsyncEnumerable<City> GetDevCount(IEnumerable<City> cities)
         yield return city;
     }
 }
-
-private var cites = (await GetCitiesAsync());
-private var citiesWithDevCount = await GetDevCount(cites).ToListAsync();
-
-SaveDataFile("cities", citiesWithDevCount);

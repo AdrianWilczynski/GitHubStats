@@ -32,7 +32,7 @@ const config = {
     plugins: [
         new CopyPlugin([
             { from: './*.html' },
-            { from: './../data/*.json', flatten: true },
+            { from: './../data/!(*.temp.json)', flatten: true },
             { from: './assets/*.*', flatten: true },
         ]),
     ]

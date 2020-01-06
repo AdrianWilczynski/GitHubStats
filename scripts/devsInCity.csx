@@ -17,8 +17,9 @@ private var userName = Args[0];
 private var token = Args[1];
 
 private var city = Args[2];
+private var output = Args[3];
 
-SaveDataFile($"devsIn{city}", await GetUsers(city, userName, token));
+SaveDataFile(output, await GetUsers(city, userName, token));
 
 private static async Task<IEnumerable<string>> GetUsers(string city, string userName, string token)
 {
