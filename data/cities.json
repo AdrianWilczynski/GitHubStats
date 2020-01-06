@@ -6,7 +6,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 1777972,
-    "DeveloperCount": 11174
+    "DeveloperCount": 11178,
+    "Percentage": 0.62869
   },
   {
     "Name": "Kraków",
@@ -16,7 +17,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 771069,
-    "DeveloperCount": 6794
+    "DeveloperCount": 6796,
+    "Percentage": 0.88137
   },
   {
     "Name": "Łódź",
@@ -25,7 +27,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 685285,
-    "DeveloperCount": 1264
+    "DeveloperCount": 1264,
+    "Percentage": 0.18445
   },
   {
     "Name": "Wrocław",
@@ -34,7 +37,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 640648,
-    "DeveloperCount": 5348
+    "DeveloperCount": 5349,
+    "Percentage": 0.83494
   },
   {
     "Name": "Poznań",
@@ -43,7 +47,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 536438,
-    "DeveloperCount": 3215
+    "DeveloperCount": 3215,
+    "Percentage": 0.59932
   },
   {
     "Name": "Gdańsk",
@@ -52,28 +57,32 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 466631,
-    "DeveloperCount": 2587
+    "DeveloperCount": 2588,
+    "Percentage": 0.55461
   },
   {
     "Name": "Szczecin",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 402465,
-    "DeveloperCount": 808
+    "DeveloperCount": 808,
+    "Percentage": 0.20076
   },
   {
     "Name": "Bydgoszcz",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 350178,
-    "DeveloperCount": 370
+    "DeveloperCount": 370,
+    "Percentage": 0.10566
   },
   {
     "Name": "Lublin",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 339682,
-    "DeveloperCount": 783
+    "DeveloperCount": 783,
+    "Percentage": 0.23051
   },
   {
     "Name": "Białystok",
@@ -82,21 +91,24 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 297459,
-    "DeveloperCount": 464
+    "DeveloperCount": 464,
+    "Percentage": 0.15599
   },
   {
     "Name": "Katowice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 294510,
-    "DeveloperCount": 982
+    "DeveloperCount": 982,
+    "Percentage": 0.33344
   },
   {
     "Name": "Gdynia",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 246309,
-    "DeveloperCount": 621
+    "DeveloperCount": 621,
+    "Percentage": 0.25212
   },
   {
     "Name": "Częstochowa",
@@ -105,14 +117,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 222292,
-    "DeveloperCount": 126
+    "DeveloperCount": 126,
+    "Percentage": 0.05668
   },
   {
     "Name": "Radom",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 213029,
-    "DeveloperCount": 65
+    "DeveloperCount": 65,
+    "Percentage": 0.03051
   },
   {
     "Name": "Toruń",
@@ -121,21 +135,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 202074,
-    "DeveloperCount": 277
+    "DeveloperCount": 278,
+    "Percentage": 0.13757
   },
   {
     "Name": "Sosnowiec",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 202036,
-    "DeveloperCount": 73
+    "DeveloperCount": 73,
+    "Percentage": 0.03613
   },
   {
     "Name": "Kielce",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 195774,
-    "DeveloperCount": 168
+    "DeveloperCount": 168,
+    "Percentage": 0.08581
   },
   {
     "Name": "Rzeszów",
@@ -144,28 +161,32 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 193883,
-    "DeveloperCount": 535
+    "DeveloperCount": 536,
+    "Percentage": 0.27646
   },
   {
     "Name": "Gliwice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 179806,
-    "DeveloperCount": 453
+    "DeveloperCount": 453,
+    "Percentage": 0.25194
   },
   {
     "Name": "Zabrze",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 173374,
-    "DeveloperCount": 82
+    "DeveloperCount": 82,
+    "Percentage": 0.0473
   },
   {
     "Name": "Olsztyn",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 172362,
-    "DeveloperCount": 178
+    "DeveloperCount": 177,
+    "Percentage": 0.10269
   },
   {
     "Name": "Bielsko-Biała",
@@ -174,14 +195,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 171259,
-    "DeveloperCount": 220
+    "DeveloperCount": 220,
+    "Percentage": 0.12846
   },
   {
     "Name": "Bytom",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 166795,
-    "DeveloperCount": 74
+    "DeveloperCount": 74,
+    "Percentage": 0.04437
   },
   {
     "Name": "Zielona Góra",
@@ -190,14 +213,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 140297,
-    "DeveloperCount": 178
+    "DeveloperCount": 178,
+    "Percentage": 0.12687
   },
   {
     "Name": "Rybnik",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 138696,
-    "DeveloperCount": 77
+    "DeveloperCount": 77,
+    "Percentage": 0.05552
   },
   {
     "Name": "Ruda Śląska",
@@ -206,21 +231,24 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 138000,
-    "DeveloperCount": 32
+    "DeveloperCount": 32,
+    "Percentage": 0.02319
   },
   {
     "Name": "Opole",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 128137,
-    "DeveloperCount": 154
+    "DeveloperCount": 154,
+    "Percentage": 0.12018
   },
   {
     "Name": "Tychy",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 127831,
-    "DeveloperCount": 99
+    "DeveloperCount": 99,
+    "Percentage": 0.07745
   },
   {
     "Name": "Gorzów Wielkopolski",
@@ -229,7 +257,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 123921,
-    "DeveloperCount": 26
+    "DeveloperCount": 26,
+    "Percentage": 0.02098
   },
   {
     "Name": "Dąbrowa Górnicza",
@@ -238,7 +267,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 120259,
-    "DeveloperCount": 34
+    "DeveloperCount": 34,
+    "Percentage": 0.02827
   },
   {
     "Name": "Elbląg",
@@ -247,7 +277,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 120142,
-    "DeveloperCount": 34
+    "DeveloperCount": 34,
+    "Percentage": 0.0283
   },
   {
     "Name": "Płock",
@@ -256,7 +287,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 120000,
-    "DeveloperCount": 36
+    "DeveloperCount": 36,
+    "Percentage": 0.03
   },
   {
     "Name": "Wałbrzych",
@@ -265,7 +297,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 112594,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.01243
   },
   {
     "Name": "Włocławek",
@@ -274,7 +307,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 110802,
-    "DeveloperCount": 19
+    "DeveloperCount": 19,
+    "Percentage": 0.01715
   },
   {
     "Name": "Tarnów",
@@ -283,7 +317,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 109062,
-    "DeveloperCount": 69
+    "DeveloperCount": 69,
+    "Percentage": 0.06327
   },
   {
     "Name": "Chorzów",
@@ -292,28 +327,32 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 108434,
-    "DeveloperCount": 45
+    "DeveloperCount": 45,
+    "Percentage": 0.0415
   },
   {
     "Name": "Koszalin",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 107321,
-    "DeveloperCount": 71
+    "DeveloperCount": 71,
+    "Percentage": 0.06616
   },
   {
     "Name": "Kalisz",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 100975,
-    "DeveloperCount": 42
+    "DeveloperCount": 42,
+    "Percentage": 0.04159
   },
   {
     "Name": "Legnica",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 99752,
-    "DeveloperCount": 36
+    "DeveloperCount": 36,
+    "Percentage": 0.03609
   },
   {
     "Name": "Grudziądz",
@@ -322,14 +361,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 95045,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.01157
   },
   {
     "Name": "Jaworzno",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 91563,
-    "DeveloperCount": 33
+    "DeveloperCount": 33,
+    "Percentage": 0.03604
   },
   {
     "Name": "Słupsk",
@@ -338,7 +379,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 91007,
-    "DeveloperCount": 31
+    "DeveloperCount": 31,
+    "Percentage": 0.03406
   },
   {
     "Name": "Jastrzębie-Zdrój",
@@ -347,7 +389,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 89128,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.01795
   },
   {
     "Name": "Nowy Sącz",
@@ -356,7 +399,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 83896,
-    "DeveloperCount": 33
+    "DeveloperCount": 33,
+    "Percentage": 0.03933
   },
   {
     "Name": "Jelenia Góra",
@@ -365,14 +409,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 79480,
-    "DeveloperCount": 34
+    "DeveloperCount": 34,
+    "Percentage": 0.04278
   },
   {
     "Name": "Siedlce",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 77872,
-    "DeveloperCount": 34
+    "DeveloperCount": 34,
+    "Percentage": 0.04366
   },
   {
     "Name": "Mysłowice",
@@ -381,14 +427,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 74586,
-    "DeveloperCount": 21
+    "DeveloperCount": 21,
+    "Percentage": 0.02816
   },
   {
     "Name": "Konin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 74151,
-    "DeveloperCount": 26
+    "DeveloperCount": 26,
+    "Percentage": 0.03506
   },
   {
     "Name": "Piotrków Trybunalski",
@@ -397,7 +445,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 73670,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.00814
   },
   {
     "Name": "Piła",
@@ -406,7 +455,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 73398,
-    "DeveloperCount": 32
+    "DeveloperCount": 32,
+    "Percentage": 0.0436
   },
   {
     "Name": "Inowrocław",
@@ -415,14 +465,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 73114,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.01231
   },
   {
     "Name": "Lubin",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 72581,
-    "DeveloperCount": 39
+    "DeveloperCount": 39,
+    "Percentage": 0.05373
   },
   {
     "Name": "Ostrów Wielkopolski",
@@ -431,7 +483,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 72050,
-    "DeveloperCount": 22
+    "DeveloperCount": 22,
+    "Percentage": 0.03053
   },
   {
     "Name": "Suwałki",
@@ -440,7 +493,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 69827,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.02005
   },
   {
     "Name": "Ostrowiec Świętokrzyski",
@@ -449,21 +503,24 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 69051,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.00434
   },
   {
     "Name": "Gniezno",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 68479,
-    "DeveloperCount": 22
+    "DeveloperCount": 22,
+    "Percentage": 0.03213
   },
   {
     "Name": "Stargard",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 67938,
-    "DeveloperCount": 18
+    "DeveloperCount": 18,
+    "Percentage": 0.02649
   },
   {
     "Name": "Głogów",
@@ -472,7 +529,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 67615,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.01479
   },
   {
     "Name": "Siemianowice Śląskie",
@@ -481,21 +539,24 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 67154,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.01638
   },
   {
     "Name": "Pabianice",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 65283,
-    "DeveloperCount": 15
+    "DeveloperCount": 15,
+    "Percentage": 0.02298
   },
   {
     "Name": "Leszno",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 63952,
-    "DeveloperCount": 26
+    "DeveloperCount": 26,
+    "Percentage": 0.04066
   },
   {
     "Name": "Zamość",
@@ -504,7 +565,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 63813,
-    "DeveloperCount": 13
+    "DeveloperCount": 13,
+    "Percentage": 0.02037
   },
   {
     "Name": "Łomża",
@@ -513,7 +575,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 63000,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.01905
   },
   {
     "Name": "Chełm",
@@ -522,7 +585,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 62670,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.02553
   },
   {
     "Name": "Tomaszów Mazowiecki",
@@ -531,7 +595,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 62649,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00319
   },
   {
     "Name": "Żory",
@@ -540,7 +605,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 62456,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.01921
   },
   {
     "Name": "Ełk",
@@ -549,7 +615,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 61928,
-    "DeveloperCount": 168
+    "DeveloperCount": 168,
+    "Percentage": 0.27128
   },
   {
     "Name": "Pruszków",
@@ -558,7 +625,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 61784,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.0259
   },
   {
     "Name": "Tarnowskie Góry",
@@ -567,7 +635,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 61361,
-    "DeveloperCount": 22
+    "DeveloperCount": 22,
+    "Percentage": 0.03585
   },
   {
     "Name": "Przemyśl",
@@ -576,14 +645,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 61251,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.02286
   },
   {
     "Name": "Stalowa Wola",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 61182,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.02615
   },
   {
     "Name": "Kędzierzyn-Koźle",
@@ -592,21 +663,24 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 61062,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.00983
   },
   {
     "Name": "Mielec",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 60478,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.02315
   },
   {
     "Name": "Tczew",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 60279,
-    "DeveloperCount": 22
+    "DeveloperCount": 22,
+    "Percentage": 0.0365
   },
   {
     "Name": "Bełchatów",
@@ -615,7 +689,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 57432,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.01915
   },
   {
     "Name": "Biała Podlaska",
@@ -624,7 +699,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 57352,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.02092
   },
   {
     "Name": "Świdnica",
@@ -633,7 +709,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 57310,
-    "DeveloperCount": 21
+    "DeveloperCount": 21,
+    "Percentage": 0.03664
   },
   {
     "Name": "Będzin",
@@ -642,14 +719,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 56804,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.02465
   },
   {
     "Name": "Zgierz",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 56529,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.01592
   },
   {
     "Name": "Piekary Śląskie",
@@ -658,7 +737,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 55299,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.01447
   },
   {
     "Name": "Racibórz",
@@ -667,14 +747,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 54882,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.02004
   },
   {
     "Name": "Legionowo",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 54066,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.0222
   },
   {
     "Name": "Ostrołęka",
@@ -683,7 +765,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 52262,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.02105
   },
   {
     "Name": "Świętochłowice",
@@ -692,42 +775,48 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 50012,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.014
   },
   {
     "Name": "Wejherowo",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 49789,
-    "DeveloperCount": 19
+    "DeveloperCount": 19,
+    "Percentage": 0.03816
   },
   {
     "Name": "Zawiercie",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 49567,
-    "DeveloperCount": 13
+    "DeveloperCount": 13,
+    "Percentage": 0.02623
   },
   {
     "Name": "Rumia",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 49031,
-    "DeveloperCount": 19
+    "DeveloperCount": 19,
+    "Percentage": 0.03875
   },
   {
     "Name": "Starachowice",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 48965,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.00817
   },
   {
     "Name": "Skierniewice",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 48178,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.02283
   },
   {
     "Name": "Wodzisław Śląski",
@@ -736,14 +825,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 48143,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01039
   },
   {
     "Name": "Piaseczno",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 48119,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02078
   },
   {
     "Name": "Starogard Gdański",
@@ -752,7 +843,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 47776,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.00837
   },
   {
     "Name": "Puławy",
@@ -761,21 +853,24 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 47774,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.01884
   },
   {
     "Name": "Tarnobrzeg",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 47047,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01275
   },
   {
     "Name": "Krosno",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 46511,
-    "DeveloperCount": 38
+    "DeveloperCount": 38,
+    "Percentage": 0.0817
   },
   {
     "Name": "Kołobrzeg",
@@ -784,14 +879,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 46367,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.01941
   },
   {
     "Name": "Radomsko",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 46087,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01302
   },
   {
     "Name": "Dębica",
@@ -800,7 +897,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 45817,
-    "DeveloperCount": 15
+    "DeveloperCount": 15,
+    "Percentage": 0.03274
   },
   {
     "Name": "Skarżysko-Kamienna",
@@ -809,14 +907,16 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 45358,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01102
   },
   {
     "Name": "Otwock",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 44880,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.01783
   },
   {
     "Name": "Ciechanów",
@@ -825,28 +925,32 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 44209,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.0181
   },
   {
     "Name": "Kutno",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 44172,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.02037
   },
   {
     "Name": "Nysa",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 44044,
-    "DeveloperCount": 13
+    "DeveloperCount": 13,
+    "Percentage": 0.02952
   },
   {
     "Name": "Sieradz",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 42267,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.01893
   },
   {
     "Name": "Zduńska Wola",
@@ -855,7 +959,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 42094,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01188
   },
   {
     "Name": "Świnoujście",
@@ -864,7 +969,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 40910,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.01711
   },
   {
     "Name": "Mikołów",
@@ -873,7 +979,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 40813,
-    "DeveloperCount": 15
+    "DeveloperCount": 15,
+    "Percentage": 0.03675
   },
   {
     "Name": "Mińsk Mazowiecki",
@@ -882,14 +989,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 40799,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.02696
   },
   {
     "Name": "Szczecinek",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 40114,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.02244
   },
   {
     "Name": "Żyrardów",
@@ -898,14 +1007,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 39992,
-    "DeveloperCount": 15
+    "DeveloperCount": 15,
+    "Percentage": 0.03751
   },
   {
     "Name": "Chojnice",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 39904,
-    "DeveloperCount": 14
+    "DeveloperCount": 14,
+    "Percentage": 0.03508
   },
   {
     "Name": "Świdnik",
@@ -914,7 +1025,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 39312,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01272
   },
   {
     "Name": "Bolesławiec",
@@ -923,7 +1035,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 38935,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02568
   },
   {
     "Name": "Nowa Sól",
@@ -932,21 +1045,24 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 38843,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01287
   },
   {
     "Name": "Malbork",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 38570,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.01815
   },
   {
     "Name": "Kwidzyn",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 38481,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01299
   },
   {
     "Name": "Knurów",
@@ -955,7 +1071,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 38402,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.04166
   },
   {
     "Name": "Oświęcim",
@@ -964,7 +1081,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 38300,
-    "DeveloperCount": 17
+    "DeveloperCount": 17,
+    "Percentage": 0.04439
   },
   {
     "Name": "Jarosław",
@@ -973,7 +1091,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 37690,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01061
   },
   {
     "Name": "Żary",
@@ -982,14 +1101,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 37682,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.00796
   },
   {
     "Name": "Sanok",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 37577,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02661
   },
   {
     "Name": "Oleśnica",
@@ -998,7 +1119,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 37242,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.03222
   },
   {
     "Name": "Wołomin",
@@ -1007,7 +1129,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 37138,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01346
   },
   {
     "Name": "Chrzanów",
@@ -1016,7 +1139,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 36945,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.02436
   },
   {
     "Name": "Ząbki",
@@ -1025,42 +1149,48 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 36706,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01635
   },
   {
     "Name": "Sochaczew",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 36462,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.03017
   },
   {
     "Name": "Sopot",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 36046,
-    "DeveloperCount": 90
+    "DeveloperCount": 90,
+    "Percentage": 0.24968
   },
   {
     "Name": "Brzeg",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 35930,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02783
   },
   {
     "Name": "Czechowice-Dziedzice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 35919,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.01949
   },
   {
     "Name": "Olkusz",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 35608,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02808
   },
   {
     "Name": "Lębork",
@@ -1069,7 +1199,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 35367,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.01979
   },
   {
     "Name": "Jasło",
@@ -1078,14 +1209,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 35192,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02842
   },
   {
     "Name": "Cieszyn",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 34613,
-    "DeveloperCount": 22
+    "DeveloperCount": 22,
+    "Percentage": 0.06356
   },
   {
     "Name": "Kraśnik",
@@ -1094,21 +1227,24 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 34539,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01737
   },
   {
     "Name": "Marki",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 33914,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.02359
   },
   {
     "Name": "Nowy Targ",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 33373,
-    "DeveloperCount": 10
+    "DeveloperCount": 10,
+    "Percentage": 0.02996
   },
   {
     "Name": "Dzierżoniów",
@@ -1117,7 +1253,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 33344,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.012
   },
   {
     "Name": "Iława",
@@ -1126,7 +1263,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 33250,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01805
   },
   {
     "Name": "Ostróda",
@@ -1135,7 +1273,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 32996,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01515
   },
   {
     "Name": "Oława",
@@ -1144,14 +1283,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 32927,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01519
   },
   {
     "Name": "Police",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 32685,
-    "DeveloperCount": 27
+    "DeveloperCount": 27,
+    "Percentage": 0.08261
   },
   {
     "Name": "Luboń",
@@ -1160,7 +1301,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 31783,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00629
   },
   {
     "Name": "Myszków",
@@ -1169,7 +1311,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 31762,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0063
   },
   {
     "Name": "Czeladź",
@@ -1178,14 +1321,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 31677,
-    "DeveloperCount": 18
+    "DeveloperCount": 18,
+    "Percentage": 0.05682
   },
   {
     "Name": "Grodzisk Mazowiecki",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 31505,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.01904
   },
   {
     "Name": "Żywiec",
@@ -1194,7 +1339,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 31388,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.05097
   },
   {
     "Name": "Mława",
@@ -1203,7 +1349,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 31234,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0032
   },
   {
     "Name": "Pruszcz Gdański",
@@ -1212,7 +1359,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 30878,
-    "DeveloperCount": 21
+    "DeveloperCount": 21,
+    "Percentage": 0.06801
   },
   {
     "Name": "Września",
@@ -1221,14 +1369,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 30558,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01636
   },
   {
     "Name": "Zgorzelec",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 30521,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.00983
   },
   {
     "Name": "Swarzędz",
@@ -1237,7 +1387,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 30433,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.02629
   },
   {
     "Name": "Augustów",
@@ -1246,14 +1397,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 30242,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00661
   },
   {
     "Name": "Bielawa",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 30055,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01664
   },
   {
     "Name": "Łuków",
@@ -1262,14 +1415,16 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 30025,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.02664
   },
   {
     "Name": "Bochnia",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 29922,
-    "DeveloperCount": 13
+    "DeveloperCount": 13,
+    "Percentage": 0.04345
   },
   {
     "Name": "Śrem",
@@ -1278,7 +1433,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 29714,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.03029
   },
   {
     "Name": "Giżycko",
@@ -1287,21 +1443,24 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 29396,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02041
   },
   {
     "Name": "Krotoszyn",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 28969,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.02416
   },
   {
     "Name": "Brodnica",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 28774,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowy Dwór Mazowiecki",
@@ -1310,7 +1469,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 28647,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01047
   },
   {
     "Name": "Łowicz",
@@ -1319,21 +1479,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 28501,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01754
   },
   {
     "Name": "Czerwionka-Leszczyny",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 28266,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gorlice",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 27597,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.02537
   },
   {
     "Name": "Kętrzyn",
@@ -1342,21 +1505,24 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 27366,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01096
   },
   {
     "Name": "Zakopane",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 27191,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.0331
   },
   {
     "Name": "Turek",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 27109,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00369
   },
   {
     "Name": "Kłodzko",
@@ -1365,7 +1531,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 26954,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02226
   },
   {
     "Name": "Wyszków",
@@ -1374,7 +1541,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 26890,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Biłgoraj",
@@ -1383,14 +1551,16 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 26391,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01895
   },
   {
     "Name": "Jarocin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 26256,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02285
   },
   {
     "Name": "Świecie",
@@ -1399,14 +1569,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 25831,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.01936
   },
   {
     "Name": "Pszczyna",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 25829,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 0.06195
   },
   {
     "Name": "Żagań",
@@ -1415,14 +1587,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 25812,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.0155
   },
   {
     "Name": "Reda",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 25810,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.04649
   },
   {
     "Name": "Wągrowiec",
@@ -1431,14 +1605,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 25648,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.0117
   },
   {
     "Name": "Bielsk Podlaski",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 25370,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00788
   },
   {
     "Name": "Wałcz",
@@ -1447,14 +1623,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 25359,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01577
   },
   {
     "Name": "Skawina",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 24362,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01642
   },
   {
     "Name": "Białogard",
@@ -1463,7 +1641,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 24339,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02054
   },
   {
     "Name": "Kościan",
@@ -1472,14 +1651,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 23923,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01254
   },
   {
     "Name": "Lubliniec",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 23818,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0084
   },
   {
     "Name": "Kościerzyna",
@@ -1488,7 +1669,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 23759,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02104
   },
   {
     "Name": "Kobyłka",
@@ -1497,42 +1679,48 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 23706,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01687
   },
   {
     "Name": "Kluczbork",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 23661,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00845
   },
   {
     "Name": "Sandomierz",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 23644,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.03384
   },
   {
     "Name": "Bartoszyce",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 23609,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wieliczka",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 23395,
-    "DeveloperCount": 15
+    "DeveloperCount": 15,
+    "Percentage": 0.06412
   },
   {
     "Name": "Szczytno",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 23343,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01714
   },
   {
     "Name": "Środa Wielkopolska",
@@ -1541,14 +1729,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 23312,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00858
   },
   {
     "Name": "Jawor",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 23056,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.03036
   },
   {
     "Name": "Świebodzice",
@@ -1557,7 +1747,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 22830,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00876
   },
   {
     "Name": "Piastów",
@@ -1566,7 +1757,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 22657,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01324
   },
   {
     "Name": "Ostrów Mazowiecka",
@@ -1575,7 +1767,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 22545,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wieluń",
@@ -1584,14 +1777,16 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 22521,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01776
   },
   {
     "Name": "Polkowice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 22487,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Goleniów",
@@ -1600,7 +1795,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 22403,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01785
   },
   {
     "Name": "Łaziska Górne",
@@ -1609,14 +1805,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 22334,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowa Ruda",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 22246,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0045
   },
   {
     "Name": "Zambrów",
@@ -1625,7 +1823,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 22166,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01805
   },
   {
     "Name": "Płońsk",
@@ -1634,7 +1833,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 22163,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00902
   },
   {
     "Name": "Lubartów",
@@ -1643,7 +1843,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 21995,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02728
   },
   {
     "Name": "Koło",
@@ -1652,14 +1853,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 21994,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00455
   },
   {
     "Name": "Grajewo",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 21935,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01368
   },
   {
     "Name": "Świebodzin",
@@ -1668,7 +1871,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 21763,
-    "DeveloperCount": 7
+    "DeveloperCount": 6,
+    "Percentage": 0.02757
   },
   {
     "Name": "Mrągowo",
@@ -1677,7 +1881,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 21708,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00461
   },
   {
     "Name": "Aleksandrów Łódzki",
@@ -1686,7 +1891,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 21682,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00461
   },
   {
     "Name": "Rydułtowy",
@@ -1695,14 +1901,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 21637,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01849
   },
   {
     "Name": "Opoczno",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 21327,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00469
   },
   {
     "Name": "Działdowo",
@@ -1711,14 +1919,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 21275,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0047
   },
   {
     "Name": "Gryfino",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 21274,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0094
   },
   {
     "Name": "Lubań",
@@ -1727,21 +1937,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 21168,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.00945
   },
   {
     "Name": "Prudnik",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 21138,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Orzesze",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 20927,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02867
   },
   {
     "Name": "Hajnówka",
@@ -1750,7 +1963,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 20690,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00483
   },
   {
     "Name": "Józefów",
@@ -1759,14 +1973,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 20605,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01941
   },
   {
     "Name": "Rawicz",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 20337,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.01967
   },
   {
     "Name": "Andrychów",
@@ -1775,7 +1991,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 20260,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.02962
   },
   {
     "Name": "Gostyń",
@@ -1784,14 +2001,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 20192,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01486
   },
   {
     "Name": "Trzebinia",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 19846,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02519
   },
   {
     "Name": "Chełmno",
@@ -1800,7 +2019,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 19720,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01014
   },
   {
     "Name": "Sulejówek",
@@ -1809,7 +2029,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 19714,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00507
   },
   {
     "Name": "Bieruń",
@@ -1818,7 +2039,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 19605,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.0153
   },
   {
     "Name": "Ozorków",
@@ -1827,7 +2049,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 19456,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00514
   },
   {
     "Name": "Pułtusk",
@@ -1836,7 +2059,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 19431,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00515
   },
   {
     "Name": "Końskie",
@@ -1845,14 +2069,16 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 19330,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pisz",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 19318,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01035
   },
   {
     "Name": "Tomaszów Lubelski",
@@ -1861,7 +2087,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 19198,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kamienna Góra",
@@ -1870,7 +2097,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 19136,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01045
   },
   {
     "Name": "Łęczna",
@@ -1879,7 +2107,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 19006,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00526
   },
   {
     "Name": "Sokołów Podlaski",
@@ -1888,14 +2117,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 18939,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01584
   },
   {
     "Name": "Krasnystaw",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 18778,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01065
   },
   {
     "Name": "Szamotuły",
@@ -1904,14 +2135,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 18776,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wadowice",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 18774,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.04794
   },
   {
     "Name": "Kęty",
@@ -1920,7 +2153,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 18744,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02668
   },
   {
     "Name": "Chodzież",
@@ -1929,21 +2163,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 18684,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0107
   },
   {
     "Name": "Gostynin",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 18647,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01073
   },
   {
     "Name": "Pyskowice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 18456,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01084
   },
   {
     "Name": "Złotów",
@@ -1952,14 +2189,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 18446,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02711
   },
   {
     "Name": "Pionki",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 18427,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01085
   },
   {
     "Name": "Myślenice",
@@ -1968,7 +2207,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 18386,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.03807
   },
   {
     "Name": "Nakło nad Notecią",
@@ -1977,7 +2217,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 18353,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sokółka",
@@ -1986,14 +2227,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 18210,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01098
   },
   {
     "Name": "Oborniki",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 18179,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.022
   },
   {
     "Name": "Międzyrzecz",
@@ -2002,7 +2245,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 18099,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Konstantynów Łódzki",
@@ -2011,28 +2255,32 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 18096,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01105
   },
   {
     "Name": "Sierpc",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 18014,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02776
   },
   {
     "Name": "Strzelce Opolskie",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 17982,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01112
   },
   {
     "Name": "Radlin",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 17806,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01123
   },
   {
     "Name": "Kostrzyn nad Odrą",
@@ -2041,7 +2289,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 17776,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01125
   },
   {
     "Name": "Łańcut",
@@ -2050,7 +2299,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 17738,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Hrubieszów",
@@ -2059,42 +2309,48 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 17735,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00564
   },
   {
     "Name": "Zielonka",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 17589,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01137
   },
   {
     "Name": "Bogatynia",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 17559,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01139
   },
   {
     "Name": "Garwolin",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 17494,
-    "DeveloperCount": 17
+    "DeveloperCount": 17,
+    "Percentage": 0.09718
   },
   {
     "Name": "Rawa Mazowiecka",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 17408,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01149
   },
   {
     "Name": "Pleszew",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 17356,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01729
   },
   {
     "Name": "Łask",
@@ -2103,35 +2359,40 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 17344,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02883
   },
   {
     "Name": "Kozienice",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 17331,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.02308
   },
   {
     "Name": "Przasnysz",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 17309,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01733
   },
   {
     "Name": "Trzcianka",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 17197,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01744
   },
   {
     "Name": "Konstancin-Jeziorna",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 17086,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00585
   },
   {
     "Name": "Libiąż",
@@ -2140,14 +2401,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 17084,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00585
   },
   {
     "Name": "Braniewo",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 17071,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01172
   },
   {
     "Name": "Łomianki",
@@ -2156,7 +2419,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 16977,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.03534
   },
   {
     "Name": "Bytów",
@@ -2165,7 +2429,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 16954,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01769
   },
   {
     "Name": "Sulechów",
@@ -2174,14 +2439,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 16925,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00591
   },
   {
     "Name": "Brzesko",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 16825,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.03566
   },
   {
     "Name": "Lędziny",
@@ -2190,7 +2457,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 16822,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01189
   },
   {
     "Name": "Radzionków",
@@ -2199,7 +2467,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 16818,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.02973
   },
   {
     "Name": "Międzyrzec Podlaski",
@@ -2208,7 +2477,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 16796,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00595
   },
   {
     "Name": "Słubice",
@@ -2217,7 +2487,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 16773,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00596
   },
   {
     "Name": "Grójec",
@@ -2226,28 +2497,32 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 16707,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.0419
   },
   {
     "Name": "Gubin",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 16687,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00599
   },
   {
     "Name": "Nowogard",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 16671,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.006
   },
   {
     "Name": "Gryfice",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 16527,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00605
   },
   {
     "Name": "Namysłów",
@@ -2256,28 +2531,32 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 16490,
-    "DeveloperCount": 9
+    "DeveloperCount": 9,
+    "Percentage": 0.05458
   },
   {
     "Name": "Olecko",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 16477,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00607
   },
   {
     "Name": "Krapkowice",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 16381,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.03052
   },
   {
     "Name": "Rypin",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 16354,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01223
   },
   {
     "Name": "Milanówek",
@@ -2286,14 +2565,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 16306,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.0368
   },
   {
     "Name": "Strzegom",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 16153,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01857
   },
   {
     "Name": "Dęblin",
@@ -2302,7 +2583,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 16149,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ustroń",
@@ -2311,7 +2593,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 16054,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01246
   },
   {
     "Name": "Busko-Zdrój",
@@ -2320,14 +2603,16 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 15952,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00627
   },
   {
     "Name": "Ropczyce",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 15856,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00631
   },
   {
     "Name": "Lidzbark Warmiński",
@@ -2336,14 +2621,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 15820,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01264
   },
   {
     "Name": "Jelcz-Laskowice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 15792,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01266
   },
   {
     "Name": "Radzyń Podlaski",
@@ -2352,7 +2639,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 15731,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01907
   },
   {
     "Name": "Złotoryja",
@@ -2361,7 +2649,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 15655,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00639
   },
   {
     "Name": "Łapy",
@@ -2370,14 +2659,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 15643,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01918
   },
   {
     "Name": "Solec Kujawski",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 15641,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00639
   },
   {
     "Name": "Świdwin",
@@ -2386,14 +2677,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 15594,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01283
   },
   {
     "Name": "Ustka",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 15527,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.01932
   },
   {
     "Name": "Boguszów-Gorce",
@@ -2402,35 +2695,40 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 15444,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Przeworsk",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 15376,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0065
   },
   {
     "Name": "Nisko",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 15359,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01302
   },
   {
     "Name": "Choszczno",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 15248,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00656
   },
   {
     "Name": "Limanowa",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 15158,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.03299
   },
   {
     "Name": "Jędrzejów",
@@ -2439,7 +2737,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 15149,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0066
   },
   {
     "Name": "Ząbkowice Śląskie",
@@ -2448,7 +2747,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 15072,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01327
   },
   {
     "Name": "Staszów",
@@ -2457,14 +2757,16 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 14810,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0135
   },
   {
     "Name": "Grodzisk Wielkopolski",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 14633,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowy Tomyśl",
@@ -2473,14 +2775,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 14603,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0137
   },
   {
     "Name": "Kartuzy",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 14557,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chełmża",
@@ -2489,21 +2793,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 14532,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00688
   },
   {
     "Name": "Siemiatycze",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 14505,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lipno",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 14478,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00691
   },
   {
     "Name": "Skoczów",
@@ -2512,7 +2819,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 14469,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.04147
   },
   {
     "Name": "Głowno",
@@ -2521,7 +2829,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 14291,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.007
   },
   {
     "Name": "Ostrzeszów",
@@ -2530,7 +2839,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 14176,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02116
   },
   {
     "Name": "Kępno",
@@ -2539,7 +2849,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 14123,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01416
   },
   {
     "Name": "Łęczyca",
@@ -2548,21 +2859,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 14094,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mosina",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 14015,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00714
   },
   {
     "Name": "Lubsko",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 14000,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pszów",
@@ -2571,14 +2885,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 13994,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wschowa",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 13953,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00717
   },
   {
     "Name": "Żnin",
@@ -2587,7 +2903,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 13934,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Leżajsk",
@@ -2596,7 +2913,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 13891,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.0216
   },
   {
     "Name": "Dębno",
@@ -2605,7 +2923,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 13843,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02167
   },
   {
     "Name": "Morąg",
@@ -2614,21 +2933,24 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 13838,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nidzica",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 13820,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Barlinek",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 13803,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.02898
   },
   {
     "Name": "Słupca",
@@ -2637,7 +2959,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 13773,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00726
   },
   {
     "Name": "Darłowo",
@@ -2646,7 +2969,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 13759,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.04361
   },
   {
     "Name": "Gołdap",
@@ -2655,7 +2979,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 13735,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Człuchów",
@@ -2664,14 +2989,16 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 13708,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tuchola",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 13680,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.03655
   },
   {
     "Name": "Wąbrzeźno",
@@ -2680,7 +3007,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 13605,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Głuchołazy",
@@ -2689,7 +3017,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 13585,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brwinów",
@@ -2698,7 +3027,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 13531,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00739
   },
   {
     "Name": "Chojnów",
@@ -2707,14 +3037,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 13426,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02234
   },
   {
     "Name": "Trzebnica",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 13322,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02252
   },
   {
     "Name": "Włodawa",
@@ -2723,21 +3055,24 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 13220,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wolsztyn",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 13183,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.04551
   },
   {
     "Name": "Koluszki",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 13026,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00768
   },
   {
     "Name": "Niepołomice",
@@ -2746,7 +3081,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 13001,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.05384
   },
   {
     "Name": "Kłobuck",
@@ -2755,7 +3091,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 12957,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00772
   },
   {
     "Name": "Złocieniec",
@@ -2764,14 +3101,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 12950,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radzymin",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 12876,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.0233
   },
   {
     "Name": "Rabka-Zdrój",
@@ -2780,7 +3119,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 12780,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00782
   },
   {
     "Name": "Węgrów",
@@ -2789,7 +3129,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 12672,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00789
   },
   {
     "Name": "Golub-Dobrzyń",
@@ -2798,14 +3139,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 12630,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pyrzyce",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 12617,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01585
   },
   {
     "Name": "Głubczyce",
@@ -2814,14 +3157,16 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 12596,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00794
   },
   {
     "Name": "Brzeziny",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 12547,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01594
   },
   {
     "Name": "Sławno",
@@ -2830,21 +3175,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 12528,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01596
   },
   {
     "Name": "Brzeg Dolny",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 12492,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02402
   },
   {
     "Name": "Strzelin",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 12435,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.03217
   },
   {
     "Name": "Wołów",
@@ -2853,7 +3201,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 12425,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.03219
   },
   {
     "Name": "Błonie",
@@ -2862,7 +3211,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 12327,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02434
   },
   {
     "Name": "Sędziszów Małopolski",
@@ -2871,7 +3221,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 12276,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Aleksandrów Kujawski",
@@ -2880,7 +3231,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 12220,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00818
   },
   {
     "Name": "Pasłęk",
@@ -2889,7 +3241,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 12211,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01638
   },
   {
     "Name": "Lubaczów",
@@ -2898,7 +3251,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 12078,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01656
   },
   {
     "Name": "Góra Kalwaria",
@@ -2907,7 +3261,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 12009,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02498
   },
   {
     "Name": "Janów Lubelski",
@@ -2916,21 +3271,24 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 11940,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01675
   },
   {
     "Name": "Warka",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 11926,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00839
   },
   {
     "Name": "Szprotawa",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 11912,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dąbrowa Tarnowska",
@@ -2939,14 +3297,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 11906,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mogilno",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 11880,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.02525
   },
   {
     "Name": "Góra",
@@ -2955,7 +3315,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 11859,
-    "DeveloperCount": 234
+    "DeveloperCount": 234,
+    "Percentage": 1.97318
   },
   {
     "Name": "Szydłowiec",
@@ -2964,14 +3325,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 11779,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01698
   },
   {
     "Name": "Drawsko Pomorskie",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 11657,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Miechów",
@@ -2980,7 +3343,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 11652,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ożarów Mazowiecki",
@@ -2989,14 +3353,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 11576,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00864
   },
   {
     "Name": "Zdzieszowice",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 11471,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wasilków",
@@ -3005,7 +3371,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 11384,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01757
   },
   {
     "Name": "Krosno Odrzańskie",
@@ -3014,14 +3381,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 11378,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00879
   },
   {
     "Name": "Milicz",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 11357,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01761
   },
   {
     "Name": "Węgorzewo",
@@ -3030,14 +3399,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 11341,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01764
   },
   {
     "Name": "Puck",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 11241,
-    "DeveloperCount": 8
+    "DeveloperCount": 8,
+    "Percentage": 0.07117
   },
   {
     "Name": "Myślibórz",
@@ -3046,28 +3417,32 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 11235,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brzeszcze",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 11226,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wronki",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 11199,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01786
   },
   {
     "Name": "Koronowo",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 11182,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01789
   },
   {
     "Name": "Nowa Dęba",
@@ -3076,7 +3451,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 11181,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00894
   },
   {
     "Name": "Wisła",
@@ -3085,7 +3461,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 11171,
-    "DeveloperCount": 5
+    "DeveloperCount": 5,
+    "Percentage": 0.04476
   },
   {
     "Name": "Rogoźno",
@@ -3094,21 +3471,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 11148,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00897
   },
   {
     "Name": "Kowary",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 10957,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowe Miasto Lubawskie",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 10925,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pińczów",
@@ -3117,7 +3497,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 10844,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00922
   },
   {
     "Name": "Czarnków",
@@ -3126,7 +3507,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 10735,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01863
   },
   {
     "Name": "Krynica-Zdrój",
@@ -3135,14 +3517,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 10686,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Parczew",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 10650,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00939
   },
   {
     "Name": "Międzychód",
@@ -3151,28 +3535,32 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 10623,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01883
   },
   {
     "Name": "Biskupiec",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 10602,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ciechocinek",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 10596,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.06606
   },
   {
     "Name": "Miastko",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 10473,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Syców",
@@ -3181,7 +3569,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 10420,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0096
   },
   {
     "Name": "Murowana Goślina",
@@ -3190,21 +3579,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 10396,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01924
   },
   {
     "Name": "Lubawa",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 10381,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01927
   },
   {
     "Name": "Kolno",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 10261,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łobez",
@@ -3213,21 +3605,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 10241,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobre Miasto",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 10239,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.01953
   },
   {
     "Name": "Bukowno",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 10197,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00981
   },
   {
     "Name": "Bystrzyca Kłodzka",
@@ -3236,14 +3631,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 10189,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00981
   },
   {
     "Name": "Drezdenko",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 10182,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sulęcin",
@@ -3252,14 +3649,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 10157,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.00985
   },
   {
     "Name": "Krzeszowice",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 10051,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0199
   },
   {
     "Name": "Włoszczowa",
@@ -3268,7 +3667,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 10043,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mońki",
@@ -3277,7 +3677,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 10010,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Trzebiatów",
@@ -3286,14 +3687,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 10009,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sztum",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 9990,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01001
   },
   {
     "Name": "Strzelce Krajeńskie",
@@ -3302,7 +3705,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 9969,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Władysławowo",
@@ -3311,7 +3715,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 9958,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03013
   },
   {
     "Name": "Kudowa-Zdrój",
@@ -3320,7 +3725,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 9954,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03014
   },
   {
     "Name": "Nowy Dwór Gdański",
@@ -3329,21 +3735,24 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 9917,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01008
   },
   {
     "Name": "Czersk",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 9912,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03027
   },
   {
     "Name": "Karczew",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 9891,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01011
   },
   {
     "Name": "Maków Mazowiecki",
@@ -3352,56 +3761,64 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 9787,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01022
   },
   {
     "Name": "Puszczykowo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 9698,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02062
   },
   {
     "Name": "Skwierzyna",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 9698,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01031
   },
   {
     "Name": "Kostrzyn",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 9677,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.031
   },
   {
     "Name": "Ryki",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 9667,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Opalenica",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 9596,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01042
   },
   {
     "Name": "Blachownia",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 9594,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01042
   },
   {
     "Name": "Szubin",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 9576,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kożuchów",
@@ -3410,7 +3827,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 9490,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Środa Śląska",
@@ -3419,21 +3837,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 9484,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01054
   },
   {
     "Name": "Wysokie Mazowieckie",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 9414,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02124
   },
   {
     "Name": "Olesno",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 9406,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03189
   },
   {
     "Name": "Czarna Białostocka",
@@ -3442,49 +3863,56 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 9338,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Poniatowa",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 9195,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pobiedziska",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 9181,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sucha Beskidzka",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 9165,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.04364
   },
   {
     "Name": "Imielin",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 9153,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02185
   },
   {
     "Name": "Kolbuszowa",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 9133,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0219
   },
   {
     "Name": "Ustrzyki Dolne",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 9132,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sępólno Krajeńskie",
@@ -3493,7 +3921,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 9118,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01097
   },
   {
     "Name": "Oborniki Śląskie",
@@ -3502,7 +3931,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 9109,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02196
   },
   {
     "Name": "Chełmek",
@@ -3511,7 +3941,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 9061,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stary Sącz",
@@ -3520,14 +3951,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 9048,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01105
   },
   {
     "Name": "Wojkowice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 8936,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Strzyżów",
@@ -3536,7 +3969,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 8902,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01123
   },
   {
     "Name": "Żuromin",
@@ -3545,7 +3979,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 8901,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01123
   },
   {
     "Name": "Lwówek Śląski",
@@ -3554,7 +3989,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 8870,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01127
   },
   {
     "Name": "Kamień Pomorski",
@@ -3563,21 +3999,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 8846,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kruszwica",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 8818,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Orneta",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 8817,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01134
   },
   {
     "Name": "Ziębice",
@@ -3586,28 +4025,32 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 8759,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Janikowo",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 8758,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01142
   },
   {
     "Name": "Ozimek",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 8725,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01146
   },
   {
     "Name": "Prabuty",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 8696,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Grodków",
@@ -3616,28 +4059,32 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 8667,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kalety",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 8626,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wolbrom",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 8604,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02325
   },
   {
     "Name": "Jastrowie",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 8598,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Poręba",
@@ -3646,7 +4093,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 8568,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01167
   },
   {
     "Name": "Wieruszów",
@@ -3655,14 +4103,16 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 8568,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01167
   },
   {
     "Name": "Opole Lubelskie",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 8470,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01181
   },
   {
     "Name": "Suchedniów",
@@ -3671,7 +4121,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 8379,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żychlin",
@@ -3680,7 +4131,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 8220,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tłuszcz",
@@ -3689,7 +4141,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 8157,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Połaniec",
@@ -3698,7 +4151,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 8120,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Połczyn-Zdrój",
@@ -3707,21 +4161,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 8109,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02466
   },
   {
     "Name": "Pniewy",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 8060,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03722
   },
   {
     "Name": "Mszana Dolna",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 7948,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02516
   },
   {
     "Name": "Chocianów",
@@ -3730,21 +4187,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 7911,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Witkowo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 7893,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Siechnice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 7892,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03801
   },
   {
     "Name": "Kórnik",
@@ -3753,21 +4213,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 7847,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01274
   },
   {
     "Name": "Pelplin",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 7818,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lidzbark",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 7817,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.03838
   },
   {
     "Name": "Zwoleń",
@@ -3776,28 +4239,32 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 7737,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01292
   },
   {
     "Name": "Nasielsk",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 7707,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Praszka",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 7704,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01298
   },
   {
     "Name": "Trzemeszno",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 7670,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zelów",
@@ -3806,21 +4273,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 7636,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0131
   },
   {
     "Name": "Olsztynek",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 7581,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02638
   },
   {
     "Name": "Barczewo",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 7535,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Paczków",
@@ -3829,14 +4299,16 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 7530,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01328
   },
   {
     "Name": "Barcin",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 7468,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01339
   },
   {
     "Name": "Brzozów",
@@ -3845,7 +4317,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 7455,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01341
   },
   {
     "Name": "Miasteczko Śląskie",
@@ -3854,7 +4327,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 7449,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01342
   },
   {
     "Name": "Poddębice",
@@ -3863,21 +4337,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 7448,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chojna",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 7390,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tuszyn",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 7292,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01371
   },
   {
     "Name": "Zbąszyń",
@@ -3886,35 +4363,40 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 7278,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zawadzkie",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 7168,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gniewkowo",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 7141,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pieszyce",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 7136,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czaplinek",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 7124,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01404
   },
   {
     "Name": "Łosice",
@@ -3923,7 +4405,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 7071,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sławków",
@@ -3932,14 +4415,16 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 7043,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Skarszewy",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 7023,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Białobrzegi",
@@ -3948,7 +4433,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 6980,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sobótka",
@@ -3957,7 +4443,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6957,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kąty Wrocławskie",
@@ -3966,7 +4453,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6948,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02879
   },
   {
     "Name": "Łazy",
@@ -3975,7 +4463,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 6845,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.10226
   },
   {
     "Name": "Łochów",
@@ -3984,7 +4473,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 6821,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01466
   },
   {
     "Name": "Pajęczno",
@@ -3993,21 +4483,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 6781,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01475
   },
   {
     "Name": "Witnica",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 6763,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01479
   },
   {
     "Name": "Gniew",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 6761,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żarów",
@@ -4016,14 +4509,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6755,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rudnik nad Sanem",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 6726,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Twardogóra",
@@ -4032,7 +4527,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6716,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żukowo",
@@ -4041,7 +4537,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 6683,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01496
   },
   {
     "Name": "Tuchów",
@@ -4050,7 +4547,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 6671,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.02998
   },
   {
     "Name": "Sianów",
@@ -4059,14 +4557,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 6664,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gogolin",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 6661,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gryfów Śląski",
@@ -4075,7 +4575,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6641,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sułkowice",
@@ -4084,7 +4585,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 6633,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01508
   },
   {
     "Name": "Otmuchów",
@@ -4093,7 +4595,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 6615,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szklarska Poręba",
@@ -4102,7 +4605,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6611,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01513
   },
   {
     "Name": "Głogów Małopolski",
@@ -4111,14 +4615,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 6568,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01523
   },
   {
     "Name": "Rzepin",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 6564,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01523
   },
   {
     "Name": "Bełżyce",
@@ -4127,7 +4633,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 6551,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Koźmin Wielkopolski",
@@ -4136,7 +4643,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 6536,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Opatów",
@@ -4145,7 +4653,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 6496,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.03079
   },
   {
     "Name": "Sędziszów",
@@ -4154,7 +4663,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 6484,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01542
   },
   {
     "Name": "Kłodawa",
@@ -4163,7 +4673,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 6481,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Piława Górna",
@@ -4172,7 +4683,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6457,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żmigród",
@@ -4181,14 +4693,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6449,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobczyce",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 6434,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.04663
   },
   {
     "Name": "Mszczonów",
@@ -4197,7 +4711,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 6386,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01566
   },
   {
     "Name": "Głuszyca",
@@ -4206,14 +4721,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6381,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Niemodlin",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 6359,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Polanica-Zdrój",
@@ -4222,14 +4739,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6357,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01573
   },
   {
     "Name": "Piechowice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 6222,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.03214
   },
   {
     "Name": "Krzyż Wielkopolski",
@@ -4238,7 +4757,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 6216,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sulejów",
@@ -4247,7 +4767,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 6204,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Przemków",
@@ -4256,7 +4777,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 6149,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dynów",
@@ -4265,7 +4787,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 6138,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Boguchwała",
@@ -4274,21 +4797,24 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 6117,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01635
   },
   {
     "Name": "Buk",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 6064,
-    "DeveloperCount": 11
+    "DeveloperCount": 11,
+    "Percentage": 0.1814
   },
   {
     "Name": "Lubawka",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 6063,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sieraków",
@@ -4297,7 +4823,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 6056,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Grybów",
@@ -4306,21 +4833,24 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 6038,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01656
   },
   {
     "Name": "Kietrz",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 6034,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Proszowice",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 6012,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Więcbork",
@@ -4329,21 +4859,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 5966,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czarne",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 5952,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Koniecpol",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 5950,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01681
   },
   {
     "Name": "Stęszew",
@@ -4352,7 +4885,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 5931,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01686
   },
   {
     "Name": "Działoszyn",
@@ -4361,7 +4895,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 5922,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01689
   },
   {
     "Name": "Wołczyn",
@@ -4370,14 +4905,16 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 5921,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Karlino",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 5919,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wieleń",
@@ -4386,7 +4923,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 5919,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01689
   },
   {
     "Name": "Piwniczna-Zdrój",
@@ -4395,35 +4933,40 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 5882,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowa Sarzyna",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 5880,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Choroszcz",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 5867,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowe",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 5864,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.05116
   },
   {
     "Name": "Przysucha",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 5854,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01708
   },
   {
     "Name": "Maków Podhalański",
@@ -4432,7 +4975,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 5853,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pieńsk",
@@ -4441,35 +4985,40 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5848,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0171
   },
   {
     "Name": "Szczawnica",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 5776,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jedlicze",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 5759,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szczyrk",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 5747,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lewin Brzeski",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 5743,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stronie Śląskie",
@@ -4478,7 +5027,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5741,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pakość",
@@ -4487,7 +5037,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 5723,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Śmigiel",
@@ -4496,7 +5047,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 5703,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01753
   },
   {
     "Name": "Stąporków",
@@ -4505,14 +5057,16 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 5679,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Strzelno",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 5663,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lądek-Zdrój",
@@ -4521,7 +5075,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5622,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szczawno-Zdrój",
@@ -4530,7 +5085,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5608,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Głogówek",
@@ -4539,7 +5095,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 5604,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radziejów",
@@ -4548,14 +5105,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 5602,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Siewierz",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 5592,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01788
   },
   {
     "Name": "Ścinawa",
@@ -4564,35 +5123,40 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5589,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kazimierza Wielka",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 5579,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.03585
   },
   {
     "Name": "Orzysz",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 5579,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Susz",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 5571,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.05385
   },
   {
     "Name": "Terespol",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 5557,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dąbrowa Białostocka",
@@ -4601,21 +5165,24 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 5553,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lipsko",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 5544,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lesko",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 5431,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Międzyzdroje",
@@ -4624,7 +5191,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 5399,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kuźnia Raciborska",
@@ -4633,7 +5201,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 5386,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jordanów",
@@ -4642,7 +5211,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 5373,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01861
   },
   {
     "Name": "Dzierzgoń",
@@ -4651,21 +5221,24 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 5367,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sejny",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 5344,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.03743
   },
   {
     "Name": "Radymno",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 5314,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czempiń",
@@ -4674,14 +5247,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 5295,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brusy",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 5232,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowogród Bobrzański",
@@ -4690,14 +5265,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 5188,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01928
   },
   {
     "Name": "Szczytna",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 5163,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jaworzyna Śląska",
@@ -4706,14 +5283,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5141,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01945
   },
   {
     "Name": "Wyrzysk",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 5139,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Odolanów",
@@ -4722,7 +5301,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 5130,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zagórz",
@@ -4731,28 +5311,32 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 5120,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Debrzno",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 5102,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Borne Sulinowo",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 5090,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szczebrzeszyn",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 5040,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.01984
   },
   {
     "Name": "Zbąszynek",
@@ -4761,7 +5345,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 5021,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bolków",
@@ -4770,21 +5355,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 5001,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02
   },
   {
     "Name": "Bychawa",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 4942,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pilzno",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 4903,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0204
   },
   {
     "Name": "Bierutów",
@@ -4793,7 +5381,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4871,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.04106
   },
   {
     "Name": "Łaskarzew",
@@ -4802,7 +5391,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 4860,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02058
   },
   {
     "Name": "Jedlina-Zdrój",
@@ -4811,21 +5401,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4851,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Muszyna",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 4831,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wolin",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 4828,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02071
   },
   {
     "Name": "Iłża",
@@ -4834,21 +5427,24 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 4775,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02094
   },
   {
     "Name": "Nowe Skalmierzyce",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4770,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kcynia",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4670,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brześć Kujawski",
@@ -4857,21 +5453,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4659,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ciechanowiec",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 4639,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Karpacz",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 4633,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Duszniki-Zdrój",
@@ -4880,7 +5479,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4629,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Supraśl",
@@ -4889,14 +5489,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 4622,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Biecz",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 4599,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.04349
   },
   {
     "Name": "Ożarów",
@@ -4905,21 +5507,24 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 4599,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.04349
   },
   {
     "Name": "Pilawa",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 4589,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Reszel",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 4571,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02188
   },
   {
     "Name": "Żarki",
@@ -4928,28 +5533,32 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 4568,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.04378
   },
   {
     "Name": "Zduny",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4534,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02206
   },
   {
     "Name": "Kalwaria Zebrzydowska",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 4515,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02215
   },
   {
     "Name": "Golina",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4503,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łabiszyn",
@@ -4958,7 +5567,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4501,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Leśna",
@@ -4967,14 +5577,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4484,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0223
   },
   {
     "Name": "Ruciane-Nida",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 4474,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Piotrków Kujawski",
@@ -4983,14 +5595,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4468,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krzepice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 4462,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chęciny",
@@ -4999,7 +5613,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 4445,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0225
   },
   {
     "Name": "Raciąż",
@@ -5008,35 +5623,40 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 4420,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rejowiec Fabryczny",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 4417,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Serock",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 4416,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kalisz Pomorski",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 4377,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Skaryszew",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 4376,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krośniewice",
@@ -5045,21 +5665,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 4375,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mrocza",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4366,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Olszyna",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 4359,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Słomniki",
@@ -5068,14 +5691,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 4348,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.023
   },
   {
     "Name": "Skoki",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4346,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Woźniki",
@@ -5084,7 +5709,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 4338,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bytom Odrzański",
@@ -5093,7 +5719,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 4331,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jasień",
@@ -5102,7 +5729,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 4328,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sława",
@@ -5111,35 +5739,40 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 4316,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krobia",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4313,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ogrodzieniec",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 4296,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowy Staw",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 4283,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Korsze",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 4259,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żabno",
@@ -5148,28 +5781,32 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 4248,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowogrodziec",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 4235,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Resko",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 4231,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02364
   },
   {
     "Name": "Szamocin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4222,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02369
   },
   {
     "Name": "Zawidów",
@@ -5178,14 +5815,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4217,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kleczew",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 4186,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02389
   },
   {
     "Name": "Świeradów-Zdrój",
@@ -5194,14 +5833,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4183,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szczucin",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 4173,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sokołów Małopolski",
@@ -5210,21 +5851,24 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 4165,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kowalewo Pomorskie",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 4143,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02414
   },
   {
     "Name": "Tarczyn",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 4129,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02422
   },
   {
     "Name": "Gąbin",
@@ -5233,7 +5877,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 4114,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02431
   },
   {
     "Name": "Mieroszów",
@@ -5242,7 +5887,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 4106,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czerwieńsk",
@@ -5251,7 +5897,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 4063,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Biała Piska",
@@ -5260,14 +5907,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 4030,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bobolice",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 4018,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tułowice",
@@ -5276,7 +5925,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 3998,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żelechów",
@@ -5285,7 +5935,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 3995,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02503
   },
   {
     "Name": "Płoty",
@@ -5294,7 +5945,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3983,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Górowo Iławeckie",
@@ -5303,14 +5955,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 3974,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Janowiec Wielkopolski",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3966,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ośno Lubuskie",
@@ -5319,21 +5973,24 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 3949,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lipiany",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3946,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Babimost",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 3927,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Iłowa",
@@ -5342,21 +5999,24 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 3912,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mirsk",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 3902,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Okonek",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3900,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Podkowa Leśna",
@@ -5365,14 +6025,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 3854,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02595
   },
   {
     "Name": "Drzewica",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 3844,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mikołajki",
@@ -5381,7 +6043,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 3838,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rymanów",
@@ -5390,14 +6053,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 3819,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tyczyn",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 3816,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02621
   },
   {
     "Name": "Skała",
@@ -5406,7 +6071,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 3803,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.05259
   },
   {
     "Name": "Nowe Miasto nad Pilicą",
@@ -5415,7 +6081,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 3789,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brańsk",
@@ -5424,14 +6091,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 3774,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0265
   },
   {
     "Name": "Pruchnik",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 3774,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Małogoszcz",
@@ -5440,7 +6109,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 3769,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nałęczów",
@@ -5449,7 +6119,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 3768,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.05308
   },
   {
     "Name": "Jabłonowo Pomorskie",
@@ -5458,21 +6129,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3758,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02661
   },
   {
     "Name": "Kargowa",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 3754,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nekla",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3754,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Halinów",
@@ -5481,14 +6155,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 3739,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Barwice",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3723,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobrodzień",
@@ -5497,21 +6173,24 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 3722,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chmielnik",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 3703,
-    "DeveloperCount": 6
+    "DeveloperCount": 6,
+    "Percentage": 0.16203
   },
   {
     "Name": "Zator",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 3698,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02704
   },
   {
     "Name": "Ujście",
@@ -5520,7 +6199,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3697,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.0541
   },
   {
     "Name": "Strumień",
@@ -5529,7 +6209,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 3680,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Opatówek",
@@ -5538,7 +6219,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3677,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wojcieszów",
@@ -5547,7 +6229,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 3676,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łeba",
@@ -5556,35 +6239,40 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 3675,
-    "DeveloperCount": 3
+    "DeveloperCount": 3,
+    "Percentage": 0.08163
   },
   {
     "Name": "Mieszkowice",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3645,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krajenka",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3638,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szczekociny",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 3622,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Prochowice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 3620,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Skórcz",
@@ -5593,14 +6281,16 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 3611,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Byczyna",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 3609,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kępice",
@@ -5609,7 +6299,8 @@
     ],
     "Voivodeship": "pomorskie",
     "Population": 3606,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Skępe",
@@ -5618,21 +6309,24 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3603,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rakoniewice",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3599,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Toszek",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 3595,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02782
   },
   {
     "Name": "Miłosław",
@@ -5641,7 +6335,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3572,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Przedbórz",
@@ -5650,28 +6345,32 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 3572,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mrozy",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 3552,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02815
   },
   {
     "Name": "Sompolno",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3552,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kowal",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3499,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stryków",
@@ -5680,7 +6379,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 3494,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Małomice",
@@ -5689,14 +6389,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 3489,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Myszyniec",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 3426,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rzgów",
@@ -5705,14 +6407,16 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 3401,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0294
   },
   {
     "Name": "Szczuczyn",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 3394,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Złoczew",
@@ -5721,21 +6425,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 3384,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02955
   },
   {
     "Name": "Alwernia",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 3370,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.02967
   },
   {
     "Name": "Maszewo",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3363,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tarnogród",
@@ -5744,7 +6451,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 3351,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gołańcz",
@@ -5753,28 +6461,32 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3336,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wojnicz",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 3330,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kolonowskie",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 3328,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kock",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 3315,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łasin",
@@ -5783,14 +6495,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3298,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Hel",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 3285,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.21309
   },
   {
     "Name": "Tuliszków",
@@ -5799,21 +6513,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3270,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Warta",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 3263,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03065
   },
   {
     "Name": "Kobylin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3245,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03082
   },
   {
     "Name": "Miejska Górka",
@@ -5822,28 +6539,32 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3244,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jeziorany",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 3225,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zakroczym",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 3210,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chociwel",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3209,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.06232
   },
   {
     "Name": "Biała Rawska",
@@ -5852,7 +6573,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 3197,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radomyśl Wielki",
@@ -5861,14 +6583,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 3196,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zwierzyniec",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 3194,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kańczuga",
@@ -5877,14 +6601,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 3171,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03154
   },
   {
     "Name": "Radoszyce",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 3167,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ślesin",
@@ -5893,28 +6619,32 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3151,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pyzdry",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3145,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bobowa",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 3136,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobrzyca",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3128,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krasnobród",
@@ -5923,7 +6653,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 3094,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mirosławiec",
@@ -5932,42 +6663,48 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 3089,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobiegniew",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 3088,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wilamowice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 3086,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.06481
   },
   {
     "Name": "Chorzele",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 3078,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gozdnica",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 3061,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wielbark",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 3049,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Michałowo",
@@ -5976,14 +6713,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 3047,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lubraniec",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 3028,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ćmielów",
@@ -5992,21 +6731,24 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 3024,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Margonin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 3019,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Glinojeck",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 3017,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03315
   },
   {
     "Name": "Zaklików",
@@ -6015,7 +6757,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 3013,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zagórów",
@@ -6024,14 +6767,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 3005,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Oleszyce",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 2993,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Uniejów",
@@ -6040,7 +6785,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 2984,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kunów",
@@ -6049,7 +6795,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 2979,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lwówek",
@@ -6058,14 +6805,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2977,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03359
   },
   {
     "Name": "Niemcza",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 2974,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łobżenica",
@@ -6074,21 +6823,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2972,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mielno",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2952,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bojanowo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2923,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Baborów",
@@ -6097,7 +6849,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 2920,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Polanów",
@@ -6106,21 +6859,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2918,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Recz",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2914,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Daleszyce",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 2907,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kałuszyn",
@@ -6129,28 +6885,32 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 2890,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0346
   },
   {
     "Name": "Drobin",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 2889,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sulmierzyce",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2887,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rydzyna",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2867,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03488
   },
   {
     "Name": "Węgliniec",
@@ -6159,28 +6919,32 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2860,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Poniec",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2851,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ryn",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2851,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ryglice",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 2831,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Węgorzyno",
@@ -6189,14 +6953,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2831,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czarna Woda",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 2805,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Złoty Stok",
@@ -6205,7 +6971,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2787,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kamieńsk",
@@ -6214,14 +6981,16 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 2782,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowe Miasteczko",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 2770,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radłów",
@@ -6230,7 +6999,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 2767,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wąchock",
@@ -6239,21 +7009,24 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 2764,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03618
   },
   {
     "Name": "Cybinka",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 2756,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Knyszyn",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2755,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pieniężno",
@@ -6262,7 +7035,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2746,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowy Wiśnicz",
@@ -6271,14 +7045,16 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 2745,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brzostek",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 2742,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Różan",
@@ -6287,7 +7063,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 2727,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Książ Wielkopolski",
@@ -6296,14 +7073,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2726,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jastarnia",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 2710,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dziwnów",
@@ -6312,21 +7091,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2698,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.14826
   },
   {
     "Name": "Tolkmicko",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2692,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Golczewo",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2673,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wąsosz",
@@ -6335,21 +7117,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2672,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czerniejewo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2663,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wysoka",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2647,
-    "DeveloperCount": 2
+    "DeveloperCount": 2,
+    "Percentage": 0.07556
   },
   {
     "Name": "Czyżew",
@@ -6358,7 +7143,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 2641,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kłecko",
@@ -6367,14 +7153,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2637,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03792
   },
   {
     "Name": "Izbica Kujawska",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 2631,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03801
   },
   {
     "Name": "Wyszogród",
@@ -6383,7 +7171,8 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 2618,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Międzylesie",
@@ -6392,7 +7181,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2591,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Prószków",
@@ -6401,7 +7191,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 2591,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.0386
   },
   {
     "Name": "Pełczyce",
@@ -6410,7 +7201,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2589,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Leśnica",
@@ -6419,21 +7211,24 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 2585,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kazimierz Dolny",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 2579,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bardo",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 2563,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.27312
   },
   {
     "Name": "Miłakowo",
@@ -6442,14 +7237,16 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2560,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Piaski",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 2556,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stoczek Łukowski",
@@ -6458,42 +7255,48 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 2536,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Annopol",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 2528,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Borek Wielkopolski",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2526,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Torzym",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 2524,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.03962
   },
   {
     "Name": "Pasym",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2517,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tychowo",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2517,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Józefów",
@@ -6502,14 +7305,16 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 2492,
-    "DeveloperCount": 4
+    "DeveloperCount": 4,
+    "Percentage": 0.16051
   },
   {
     "Name": "Koprzywnica",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 2488,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łęknica",
@@ -6518,14 +7323,16 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 2483,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stepnica",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2471,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ciężkowice",
@@ -6534,7 +7341,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 2469,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zabłudów",
@@ -6543,7 +7351,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 2464,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Koziegłowy",
@@ -6552,7 +7361,8 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 2463,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Gorzów Śląski",
@@ -6561,7 +7371,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 2452,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Biała",
@@ -6570,7 +7381,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 2443,
-    "DeveloperCount": 233
+    "DeveloperCount": 233,
+    "Percentage": 9.53745
   },
   {
     "Name": "Lubycza Królewska",
@@ -6579,7 +7391,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 2443,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Miłomłyn",
@@ -6588,7 +7401,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2442,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radków",
@@ -6597,7 +7411,8 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2418,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04136
   },
   {
     "Name": "Gościno",
@@ -6606,14 +7421,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2417,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krynki",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2415,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Świątniki Górne",
@@ -6622,7 +7439,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 2415,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04141
   },
   {
     "Name": "Rychwał",
@@ -6631,14 +7449,16 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2391,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04182
   },
   {
     "Name": "Trzciel",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 2389,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04186
   },
   {
     "Name": "Kamień Krajeński",
@@ -6647,28 +7467,32 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 2386,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Obrzycko",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2385,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04193
   },
   {
     "Name": "Bisztynek",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2365,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Frombork",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2355,
-    "DeveloperCount": 13
+    "DeveloperCount": 13,
+    "Percentage": 0.55202
   },
   {
     "Name": "Międzybórz",
@@ -6677,21 +7501,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2352,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lipsk",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2350,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Osieczna",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2347,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Czchów",
@@ -6700,7 +7527,8 @@
     ],
     "Voivodeship": "małopolskie",
     "Population": 2344,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wolbórz",
@@ -6709,7 +7537,8 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 2337,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Człopa",
@@ -6718,14 +7547,16 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2326,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobra",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2326,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Świerzawa",
@@ -6734,14 +7565,16 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2291,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04365
   },
   {
     "Name": "Drawno",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2290,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Trzcińsko-Zdrój",
@@ -6750,21 +7583,24 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2273,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobrzany",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2264,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.30919
   },
   {
     "Name": "Mogielnica",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 2260,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04425
   },
   {
     "Name": "Wiązów",
@@ -6773,21 +7609,24 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 2257,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bodzentyn",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 2240,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Prusice",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 2232,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Biały Bór",
@@ -6796,42 +7635,48 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 2199,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04548
   },
   {
     "Name": "Stawiski",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2195,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Suchowola",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2180,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szepietowo",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 2171,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zalewo",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2165,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krzanowice",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 2158,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowogród",
@@ -6840,7 +7685,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 2156,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04638
   },
   {
     "Name": "Łaszczów",
@@ -6849,7 +7695,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 2154,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Błażowa",
@@ -6858,14 +7705,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 2151,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sieniawa",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 2140,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobrzyń nad Wisłą",
@@ -6874,14 +7723,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 2139,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tyszowce",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 2132,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Żerków",
@@ -6890,7 +7741,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2132,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Błaszki",
@@ -6899,21 +7751,24 @@
     ],
     "Voivodeship": "łódzkie",
     "Population": 2122,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kisielice",
     "EnglishNames": [],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 2103,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pogorzela",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 2100,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Raszków",
@@ -6922,7 +7777,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2099,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ostrów Lubelski",
@@ -6931,7 +7787,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 2092,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kosów Lacki",
@@ -6940,42 +7797,48 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 2088,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dukla",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 2083,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Narol",
     "EnglishNames": [],
     "Voivodeship": "podkarpackie",
     "Population": 2076,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.04817
   },
   {
     "Name": "Rejowiec",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 2070,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lubniewice",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 2042,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Osiek",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 2015,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dąbie",
@@ -6984,42 +7847,48 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 2002,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lubomierz",
     "EnglishNames": [],
     "Voivodeship": "dolnośląskie",
     "Population": 1990,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Drohiczyn",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 1987,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sanniki",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 1983,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Tykocin",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 1975,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.05063
   },
   {
     "Name": "Jutrosin",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1967,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sępopol",
@@ -7028,21 +7897,24 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 1964,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pilica",
     "EnglishNames": [],
     "Voivodeship": "śląskie",
     "Population": 1947,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Brok",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 1940,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Grabów nad Prosną",
@@ -7051,7 +7923,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 1940,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Cieszanów",
@@ -7060,7 +7933,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1930,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ińsko",
@@ -7069,7 +7943,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1929,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ostroróg",
@@ -7078,21 +7953,24 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 1920,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szadek",
     "EnglishNames": [],
     "Voivodeship": "łódzkie",
     "Population": 1917,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.05216
   },
   {
     "Name": "Tuczno",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1916,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Sośnicowice",
@@ -7101,21 +7979,24 @@
     ],
     "Voivodeship": "śląskie",
     "Population": 1906,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chodecz",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 1899,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nieszawa",
     "EnglishNames": [],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 1886,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Radzyń Chełmiński",
@@ -7124,7 +8005,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 1864,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Bieżuń",
@@ -7133,14 +8015,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 1856,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mikstat",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1855,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Oleśnica",
@@ -7149,7 +8033,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 1848,
-    "DeveloperCount": 12
+    "DeveloperCount": 12,
+    "Percentage": 0.64935
   },
   {
     "Name": "Korfantów",
@@ -7158,7 +8043,8 @@
     ],
     "Voivodeship": "opolskie",
     "Population": 1817,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Goniądz",
@@ -7167,7 +8053,8 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 1813,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Iwonicz-Zdrój",
@@ -7176,14 +8063,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1793,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Mordy",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 1793,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Młynary",
@@ -7192,7 +8081,8 @@
     ],
     "Voivodeship": "warmińsko-mazurskie",
     "Population": 1780,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wleń",
@@ -7201,28 +8091,32 @@
     ],
     "Voivodeship": "dolnośląskie",
     "Population": 1778,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Chocz",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1777,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zawichost",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 1776,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ujazd",
     "EnglishNames": [],
     "Voivodeship": "opolskie",
     "Population": 1774,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Przecław",
@@ -7231,14 +8125,16 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1768,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wielichowo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1767,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krzywiń",
@@ -7247,7 +8143,8 @@
     ],
     "Voivodeship": "wielkopolskie",
     "Population": 1714,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Urzędów",
@@ -7256,49 +8153,56 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 1709,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lubowidz",
     "EnglishNames": [],
     "Voivodeship": "mazowieckie",
     "Population": 1697,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Morawica",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 1695,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowe Brzesko",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 1683,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Przedecz",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1670,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Zakliczyn",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 1642,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Jedwabne",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 1632,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Moryń",
@@ -7307,7 +8211,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1626,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Otyń",
@@ -7316,7 +8221,8 @@
     ],
     "Voivodeship": "lubuskie",
     "Population": 1601,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Łagów",
@@ -7325,7 +8231,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 1587,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Rajgród",
@@ -7334,28 +8241,32 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 1585,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Cedynia",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1573,
-    "DeveloperCount": 16
+    "DeveloperCount": 16,
+    "Percentage": 1.01716
   },
   {
     "Name": "Dolsk",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1560,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Stawiszyn",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1526,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Suchań",
@@ -7364,7 +8275,8 @@
     ],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1477,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Baranów Sandomierski",
@@ -7373,28 +8285,32 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1463,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Modliborzyce",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 1460,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Frampol",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 1437,
-    "DeveloperCount": 7
+    "DeveloperCount": 7,
+    "Percentage": 0.48713
   },
   {
     "Name": "Stopnica",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 1425,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Ulanów",
@@ -7403,21 +8319,24 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1424,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.07022
   },
   {
     "Name": "Jaraczewo",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1420,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Siedliszcze",
     "EnglishNames": [],
     "Voivodeship": "lubelskie",
     "Population": 1412,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Kołaczyce",
@@ -7426,7 +8345,8 @@
     ],
     "Voivodeship": "podkarpackie",
     "Population": 1403,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Lubień Kujawski",
@@ -7435,14 +8355,16 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 1397,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Dobra",
     "EnglishNames": [],
     "Voivodeship": "wielkopolskie",
     "Population": 1387,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Górzno",
@@ -7451,7 +8373,8 @@
     ],
     "Voivodeship": "kujawsko-pomorskie",
     "Population": 1370,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.07299
   },
   {
     "Name": "Nowa Słupia",
@@ -7460,49 +8383,56 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 1361,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Krynica Morska",
     "EnglishNames": [],
     "Voivodeship": "pomorskie",
     "Population": 1303,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Skalbmierz",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 1289,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szlichtyngowa",
     "EnglishNames": [],
     "Voivodeship": "lubuskie",
     "Population": 1288,
-    "DeveloperCount": 1
+    "DeveloperCount": 1,
+    "Percentage": 0.07764
   },
   {
     "Name": "Kleszczele",
     "EnglishNames": [],
     "Voivodeship": "podlaskie",
     "Population": 1271,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowe Warpno",
     "EnglishNames": [],
     "Voivodeship": "zachodniopomorskie",
     "Population": 1192,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pierzchnica",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 1152,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Pacanów",
@@ -7511,7 +8441,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 1117,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Szydłów",
@@ -7520,7 +8451,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 1106,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Suraż",
@@ -7529,14 +8461,16 @@
     ],
     "Voivodeship": "podlaskie",
     "Population": 988,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Nowy Korczyn",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 955,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Józefów nad Wisłą",
@@ -7545,7 +8479,8 @@
     ],
     "Voivodeship": "lubelskie",
     "Population": 923,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Działoszyce",
@@ -7554,7 +8489,8 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 908,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wyśmierzyce",
@@ -7563,14 +8499,16 @@
     ],
     "Voivodeship": "mazowieckie",
     "Population": 886,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Koszyce",
     "EnglishNames": [],
     "Voivodeship": "małopolskie",
     "Population": 782,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Wiślica",
@@ -7579,13 +8517,15 @@
     ],
     "Voivodeship": "świętokrzyskie",
     "Population": 515,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   },
   {
     "Name": "Opatowiec",
     "EnglishNames": [],
     "Voivodeship": "świętokrzyskie",
     "Population": 329,
-    "DeveloperCount": 0
+    "DeveloperCount": 0,
+    "Percentage": 0.0
   }
 ]

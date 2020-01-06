@@ -50,6 +50,7 @@ private async IAsyncEnumerable<City> GetDevCount(IEnumerable<City> cities)
         }
 
         city.DeveloperCount = totalCount;
+        city.Percentage = Math.Round((totalCount / (double)city.Population) * 100, 5);
 
         yield return city;
     }

@@ -7,6 +7,7 @@ public class City
     public string Voivodeship { get; set; }
     public int Population { get; set; }
     public int DeveloperCount { get; set; }
+    public double Percentage { get; set; }
 }
 
 public class Data
