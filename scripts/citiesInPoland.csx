@@ -5,7 +5,7 @@
 using System.Text.RegularExpressions;
 using AngleSharp;
 
-public async Task<IEnumerable<City>> GetCitiesAsync()
+public static async Task<IEnumerable<City>> GetCitiesAsync()
 {
     static string SquashWhitespace(string text) => Regex.Replace(text, @"\s+", " ").Trim();
 
@@ -25,7 +25,7 @@ public async Task<IEnumerable<City>> GetCitiesAsync()
             }).ToList();
 }
 
-private IEnumerable<string> GetEnglishNames(string name)
+public static IEnumerable<string> GetEnglishNames(string name)
 {
     var HardcodedNames = new Dictionary<string, string>
     {
