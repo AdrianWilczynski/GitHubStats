@@ -27,9 +27,16 @@ export interface CityData {
     RepositoryCount: number;
     LicensesCount: number;
     Licenses: License[];
+    LanguagesCount: number;
+    Languages: Language[];
 }
 
 export interface License {
+    Count: number;
+    Name: string;
+}
+
+export interface Language {
     Count: number;
     Name: string;
 }

@@ -28,20 +28,34 @@ private class LicenseFromApi
 private var input = Args[0];
 private var output = Args[1];
 
-private var repositories = LoadDataFile<Dictionary<string, IEnumerable<RepositoryFromApi>>>(input);
+private var repositoriesPerUser = LoadDataFile<Dictionary<string, IEnumerable<RepositoryFromApi>>>(input);
 
-private var licenses = repositories
+private var licenses = repositoriesPerUser
     .SelectMany(u => u.Value)
     .GroupBy(r => r.license?.name ?? "None")
     .Select(g => new License
     {
         Name = g.Key,
         Count = g.Count()
-    });
+    })
+    .OrderByDescending(l => l.Count);
+
+private var languages = repositoriesPerUser
+    .SelectMany(u => u.Value)
+    .Where(r => r.language != null)
+    .GroupBy(r => r.language)
+    .Select(g => new Language
+    {
+        Name = g.Key,
+        Count = g.Count()
+    })
+    .OrderByDescending(l => l.Count);
 
 SaveDataFile(output, new CityData
 {
-    RepositoryCount = repositories.Sum(u => u.Value.Count()),
+    RepositoryCount = repositoriesPerUser.Sum(u => u.Value.Count()),
     LicensesCount = licenses.Count(l => l.Name != "None" && l.Name != "Other"),
     Licenses = licenses,
+    LanguagesCount = languages.Count(),
+    Languages = languages
 });

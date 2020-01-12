@@ -1,14 +1,14 @@
 import Chart from 'chart.js';
-import { License } from './data';
+import { Language } from './data';
 
-export function Init(cityId: string, licenses: License[]) {
-    new Chart(`${cityId}LicensesPieChart`, {
+export function Init(cityId: string, languages: Language[]) {
+    new Chart(`${cityId}LanguagesPieChart`, {
         type: 'pie',
         data: {
-            labels: licenses.map(l => l.Name),
+            labels: languages.map(l => l.Name),
             datasets: [
                 {
-                    data: licenses.map(l => l.Count)
+                    data: languages.map(l => l.Count)
                 }
             ]
         },
@@ -16,7 +16,7 @@ export function Init(cityId: string, licenses: License[]) {
             responsive: false,
             plugins: {
                 colorschemes: {
-                    scheme: 'tableau.ClassicTrafficLight9'
+                    scheme: 'office.Urban6'
                 }
             }
         }
