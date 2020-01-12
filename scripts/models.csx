@@ -48,6 +48,7 @@ public class CityData
     public IEnumerable<Language> Languages { get; set; }
     public IEnumerable<Repository> TopRepositories { get; set; }
     public IEnumerable<Year> Years { get; set; }
+    public IEnumerable<LanguageOverTheYears> LanguagesOverTheYears { get; set; }
 }
 
 public class License
@@ -75,4 +76,10 @@ public class Year
 {
     public int RepositoriesCreatedCount { get; set; }
     public int Value { get; set; }
+}
+
+public class LanguageOverTheYears
+{
+    public string Name { get; set; }
+    public IEnumerable<Year> Years { get; set; }
 }

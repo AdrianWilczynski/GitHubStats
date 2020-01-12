@@ -68,14 +68,37 @@ private var topRepositories = repositoriesPerUser
     });
 
 private const int gitHubCreationYear = 2008;
+private var githubActiveYears = Enumerable.Range(gitHubCreationYear, DateTime.Now.Year + 1 - gitHubCreationYear);
 
-private var years = Enumerable.Range(gitHubCreationYear, DateTime.Now.Year + 1 - gitHubCreationYear)
+private var years = githubActiveYears
     .Select(y => new Year
     {
         Value = y,
         RepositoriesCreatedCount = repositoriesPerUser
             .SelectMany(u => u.Value)
             .Count(r => r.created_at.Year == y)
+    });
+
+private var top10Languages = repositoriesPerUser
+    .SelectMany(u => u.Value)
+    .Where(r => r.language != null)
+    .GroupBy(r => r.language)
+    .OrderByDescending(g => g.Count())
+    .Take(10)
+    .Select(g => g.Key);
+
+private var languagesOverTheYears = top10Languages
+    .Select(l => new LanguageOverTheYears
+    {
+        Name = l,
+        Years = githubActiveYears
+            .Select(y => new Year
+            {
+                Value = y,
+                RepositoriesCreatedCount = repositoriesPerUser
+                    .SelectMany(r => r.Value)
+                    .Count(r => r.language == l && r.created_at.Year == y)
+            })
     });
 
 SaveDataFile(output, new CityData
@@ -86,5 +109,6 @@ SaveDataFile(output, new CityData
     LanguagesCount = languages.Count(),
     Languages = languages,
     TopRepositories = topRepositories,
-    Years = years
+    Years = years,
+    LanguagesOverTheYears = languagesOverTheYears
 });

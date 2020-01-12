@@ -847,5 +847,577 @@
       "RepositoriesCreatedCount": 94,
       "Value": 2020
     }
+  ],
+  "LanguagesOverTheYears": [
+    {
+      "Name": "JavaScript",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 21,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 46,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 120,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 187,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 245,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 556,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 795,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 1152,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 2066,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 1465,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 10,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "Java",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 3,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 9,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 34,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 62,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 114,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 176,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 351,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 484,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 786,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 858,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 671,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 6,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "Python",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 11,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 20,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 53,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 95,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 130,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 184,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 307,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 377,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 478,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 637,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 621,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "HTML",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 3,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 7,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 24,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 131,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 217,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 363,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 497,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 342,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "Ruby",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 20,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 36,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 118,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 141,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 173,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 209,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 237,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 212,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 171,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 161,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 95,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "PHP",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 12,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 34,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 70,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 181,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 141,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 128,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 179,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 276,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 246,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 193,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "C++",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 24,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 34,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 54,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 82,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 124,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 181,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 261,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 382,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 301,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "C#",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 25,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 29,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 73,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 127,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 206,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 254,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 324,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 288,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "CSS",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 1,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 6,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 32,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 98,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 95,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 121,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 223,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 305,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 185,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2020
+        }
+      ]
+    },
+    {
+      "Name": "TypeScript",
+      "Years": [
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2008
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2009
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2010
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2011
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2012
+        },
+        {
+          "RepositoriesCreatedCount": 0,
+          "Value": 2013
+        },
+        {
+          "RepositoriesCreatedCount": 2,
+          "Value": 2014
+        },
+        {
+          "RepositoriesCreatedCount": 10,
+          "Value": 2015
+        },
+        {
+          "RepositoriesCreatedCount": 45,
+          "Value": 2016
+        },
+        {
+          "RepositoriesCreatedCount": 180,
+          "Value": 2017
+        },
+        {
+          "RepositoriesCreatedCount": 334,
+          "Value": 2018
+        },
+        {
+          "RepositoriesCreatedCount": 410,
+          "Value": 2019
+        },
+        {
+          "RepositoriesCreatedCount": 4,
+          "Value": 2020
+        }
+      ]
+    }
   ]
 }

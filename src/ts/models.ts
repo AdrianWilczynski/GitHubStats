@@ -31,6 +31,7 @@ export interface CityData {
     Languages: Language[];
     TopRepositories: Repository[];
     Years: Year[];
+    LanguagesOverTheYears: LanguageOverTheYears[];
 }
 
 export interface License {
@@ -54,4 +55,9 @@ export interface Repository {
 export interface Year {
     RepositoriesCreatedCount: number;
     Value: number;
+}
+
+export interface LanguageOverTheYears {
+    Name: string;
+    Years: Year[];
 }
