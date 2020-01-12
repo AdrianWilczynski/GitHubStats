@@ -1,0 +1,265 @@
+{
+  "RepositoryCount": 1402,
+  "LicensesCount": 15,
+  "Licenses": [
+    {
+      "Count": 915,
+      "Name": "None"
+    },
+    {
+      "Count": 293,
+      "Name": "MIT License"
+    },
+    {
+      "Count": 75,
+      "Name": "Other"
+    },
+    {
+      "Count": 37,
+      "Name": "Apache License 2.0"
+    },
+    {
+      "Count": 36,
+      "Name": "GNU General Public License v3.0"
+    },
+    {
+      "Count": 19,
+      "Name": "GNU General Public License v2.0"
+    },
+    {
+      "Count": 9,
+      "Name": "BSD 3-Clause \"New\" or \"Revised\" License"
+    },
+    {
+      "Count": 3,
+      "Name": "Mozilla Public License 2.0"
+    },
+    {
+      "Count": 3,
+      "Name": "GNU Affero General Public License v3.0"
+    },
+    {
+      "Count": 3,
+      "Name": "BSD 2-Clause \"Simplified\" License"
+    },
+    {
+      "Count": 2,
+      "Name": "GNU Lesser General Public License v3.0"
+    },
+    {
+      "Count": 2,
+      "Name": "Eclipse Public License 1.0"
+    },
+    {
+      "Count": 1,
+      "Name": "Creative Commons Zero v1.0 Universal"
+    },
+    {
+      "Count": 1,
+      "Name": "The Unlicense"
+    },
+    {
+      "Count": 1,
+      "Name": "zlib License"
+    },
+    {
+      "Count": 1,
+      "Name": "GNU Lesser General Public License v2.1"
+    },
+    {
+      "Count": 1,
+      "Name": "ISC License"
+    }
+  ],
+  "LanguagesCount": 47,
+  "Languages": [
+    {
+      "Count": 321,
+      "Name": "JavaScript"
+    },
+    {
+      "Count": 129,
+      "Name": "C#"
+    },
+    {
+      "Count": 126,
+      "Name": "Java"
+    },
+    {
+      "Count": 98,
+      "Name": "PHP"
+    },
+    {
+      "Count": 91,
+      "Name": "HTML"
+    },
+    {
+      "Count": 69,
+      "Name": "TypeScript"
+    },
+    {
+      "Count": 61,
+      "Name": "CSS"
+    },
+    {
+      "Count": 52,
+      "Name": "C++"
+    },
+    {
+      "Count": 51,
+      "Name": "Python"
+    },
+    {
+      "Count": 42,
+      "Name": "Ruby"
+    },
+    {
+      "Count": 32,
+      "Name": "Shell"
+    },
+    {
+      "Count": 31,
+      "Name": "Go"
+    },
+    {
+      "Count": 26,
+      "Name": "C"
+    },
+    {
+      "Count": 20,
+      "Name": "Vue"
+    },
+    {
+      "Count": 9,
+      "Name": "Vim script"
+    },
+    {
+      "Count": 6,
+      "Name": "Jupyter Notebook"
+    },
+    {
+      "Count": 5,
+      "Name": "VimL"
+    },
+    {
+      "Count": 5,
+      "Name": "Emacs Lisp"
+    },
+    {
+      "Count": 5,
+      "Name": "Swift"
+    },
+    {
+      "Count": 4,
+      "Name": "Perl"
+    },
+    {
+      "Count": 3,
+      "Name": "Kotlin"
+    },
+    {
+      "Count": 3,
+      "Name": "Makefile"
+    },
+    {
+      "Count": 3,
+      "Name": "Elixir"
+    },
+    {
+      "Count": 3,
+      "Name": "Pascal"
+    },
+    {
+      "Count": 3,
+      "Name": "OpenSCAD"
+    },
+    {
+      "Count": 3,
+      "Name": "Clojure"
+    },
+    {
+      "Count": 2,
+      "Name": "Dart"
+    },
+    {
+      "Count": 2,
+      "Name": "Assembly"
+    },
+    {
+      "Count": 2,
+      "Name": "QMake"
+    },
+    {
+      "Count": 1,
+      "Name": "Objective-C"
+    },
+    {
+      "Count": 1,
+      "Name": "PowerShell"
+    },
+    {
+      "Count": 1,
+      "Name": "SQF"
+    },
+    {
+      "Count": 1,
+      "Name": "CoffeeScript"
+    },
+    {
+      "Count": 1,
+      "Name": "Protocol Buffer"
+    },
+    {
+      "Count": 1,
+      "Name": "CMake"
+    },
+    {
+      "Count": 1,
+      "Name": "Dockerfile"
+    },
+    {
+      "Count": 1,
+      "Name": "Elm"
+    },
+    {
+      "Count": 1,
+      "Name": "TeX"
+    },
+    {
+      "Count": 1,
+      "Name": "Arduino"
+    },
+    {
+      "Count": 1,
+      "Name": "Ada"
+    },
+    {
+      "Count": 1,
+      "Name": "Haskell"
+    },
+    {
+      "Count": 1,
+      "Name": "Lex"
+    },
+    {
+      "Count": 1,
+      "Name": "Julia"
+    },
+    {
+      "Count": 1,
+      "Name": "QML"
+    },
+    {
+      "Count": 1,
+      "Name": "PLSQL"
+    },
+    {
+      "Count": 1,
+      "Name": "ASP"
+    },
+    {
+      "Count": 1,
+      "Name": "Smarty"
+    }
+  ]
+}
