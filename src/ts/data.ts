@@ -22,3 +22,14 @@ export interface Trivia {
     BigCityWithBestDeveloperToNonDeveloperRatio: string;
     MediumCityWithBestDeveloperToNonDeveloperRatio: string;
 }
+
+export interface CityData {
+    RepositoryCount: number;
+    LicensesCount: number;
+    Licenses: License[];
+}
+
+export interface License {
+    Count: number;
+    Name: string;
+}

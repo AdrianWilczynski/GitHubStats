@@ -38,3 +38,16 @@ public class Trivia
     public string BigCityWithBestDeveloperToNonDeveloperRatio { get; set; }
     public string MediumCityWithBestDeveloperToNonDeveloperRatio { get; set; }
 }
+
+public class CityData
+{
+    public int RepositoryCount { get; set; }
+    public int LicensesCount { get; set; }
+    public IEnumerable<License> Licenses { get; set; }
+}
+
+public class License
+{
+    public int Count { get; set; }
+    public string Name { get; set; }
+}

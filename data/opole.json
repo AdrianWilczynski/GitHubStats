@@ -1,0 +1,74 @@
+{
+  "RepositoryCount": 1402,
+  "LicensesCount": 15,
+  "Licenses": [
+    {
+      "Count": 915,
+      "Name": "None"
+    },
+    {
+      "Count": 293,
+      "Name": "MIT License"
+    },
+    {
+      "Count": 36,
+      "Name": "GNU General Public License v3.0"
+    },
+    {
+      "Count": 75,
+      "Name": "Other"
+    },
+    {
+      "Count": 9,
+      "Name": "BSD 3-Clause \"New\" or \"Revised\" License"
+    },
+    {
+      "Count": 19,
+      "Name": "GNU General Public License v2.0"
+    },
+    {
+      "Count": 3,
+      "Name": "Mozilla Public License 2.0"
+    },
+    {
+      "Count": 1,
+      "Name": "Creative Commons Zero v1.0 Universal"
+    },
+    {
+      "Count": 37,
+      "Name": "Apache License 2.0"
+    },
+    {
+      "Count": 1,
+      "Name": "The Unlicense"
+    },
+    {
+      "Count": 3,
+      "Name": "GNU Affero General Public License v3.0"
+    },
+    {
+      "Count": 1,
+      "Name": "zlib License"
+    },
+    {
+      "Count": 3,
+      "Name": "BSD 2-Clause \"Simplified\" License"
+    },
+    {
+      "Count": 2,
+      "Name": "GNU Lesser General Public License v3.0"
+    },
+    {
+      "Count": 1,
+      "Name": "GNU Lesser General Public License v2.1"
+    },
+    {
+      "Count": 2,
+      "Name": "Eclipse Public License 1.0"
+    },
+    {
+      "Count": 1,
+      "Name": "ISC License"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "RepositoryCount": 32438,
+  "LicensesCount": 26,
+  "Licenses": [
+    {
+      "Count": 19744,
+      "Name": "None"
+    },
+    {
+      "Count": 6781,
+      "Name": "MIT License"
+    },
+    {
+      "Count": 2086,
+      "Name": "Other"
+    },
+    {
+      "Count": 708,
+      "Name": "GNU General Public License v3.0"
+    },
+    {
+      "Count": 1635,
+      "Name": "Apache License 2.0"
+    },
+    {
+      "Count": 291,
+      "Name": "BSD 3-Clause \"New\" or \"Revised\" License"
+    },
+    {
+      "Count": 58,
+      "Name": "Mozilla Public License 2.0"
+    },
+    {
+      "Count": 55,
+      "Name": "ISC License"
+    },
+    {
+      "Count": 19,
+      "Name": "Creative Commons Attribution 4.0 International"
+    },
+    {
+      "Count": 50,
+      "Name": "GNU Lesser General Public License v2.1"
+    },
+    {
+      "Count": 33,
+      "Name": "Creative Commons Attribution Share Alike 4.0 International"
+    },
+    {
+      "Count": 131,
+      "Name": "BSD 2-Clause \"Simplified\" License"
+    },
+    {
+      "Count": 345,
+      "Name": "GNU General Public License v2.0"
+    },
+    {
+      "Count": 118,
+      "Name": "GNU Lesser General Public License v3.0"
+    },
+    {
+      "Count": 138,
+      "Name": "The Unlicense"
+    },
+    {
+      "Count": 27,
+      "Name": "Boost Software License 1.0"
+    },
+    {
+      "Count": 60,
+      "Name": "GNU Affero General Public License v3.0"
+    },
+    {
+      "Count": 24,
+      "Name": "Do What The F*ck You Want To Public License"
+    },
+    {
+      "Count": 2,
+      "Name": "PostgreSQL License"
+    },
+    {
+      "Count": 66,
+      "Name": "Creative Commons Zero v1.0 Universal"
+    },
+    {
+      "Count": 28,
+      "Name": "Eclipse Public License 1.0"
+    },
+    {
+      "Count": 17,
+      "Name": "zlib License"
+    },
+    {
+      "Count": 8,
+      "Name": "Artistic License 2.0"
+    },
+    {
+      "Count": 5,
+      "Name": "Eclipse Public License 2.0"
+    },
+    {
+      "Count": 1,
+      "Name": "SIL Open Font License 1.1"
+    },
+    {
+      "Count": 1,
+      "Name": "Microsoft Public License"
+    },
+    {
+      "Count": 2,
+      "Name": "Educational Community License v2.0"
+    },
+    {
+      "Count": 5,
+      "Name": "Open Software License 3.0"
+    }
+  ]
+}
