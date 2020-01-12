@@ -6,6 +6,7 @@ import 'chartjs-plugin-colorschemes';
 import * as citiesGrid from './citiesGrid';
 import * as voivodeshipPieChart from './voivodeshipsPieChart';
 import * as totalSummary from './totalSummary';
+import * as trivia from './trivia';
 
 import { Data } from './data';
 
@@ -19,4 +20,5 @@ async function Init() {
 
     totalSummary.Init(data.Total);
     voivodeshipPieChart.Init(data.Voivodeships);
+    trivia.Init(data.Trivia);
 }

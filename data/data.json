@@ -1,17 +1,17 @@
 {
   "Total": {
-    "DeveloperCount": 40687,
+    "DeveloperCount": 40695,
     "Population": 23087873,
     "Percentage": 0.18
   },
   "Voivodeships": [
     {
       "Name": "mazowieckie",
-      "DeveloperCount": 11545
+      "DeveloperCount": 11549
     },
     {
       "Name": "małopolskie",
-      "DeveloperCount": 7071
+      "DeveloperCount": 7073
     },
     {
       "Name": "łódzkie",
@@ -19,7 +19,7 @@
     },
     {
       "Name": "dolnośląskie",
-      "DeveloperCount": 5857
+      "DeveloperCount": 5858
     },
     {
       "Name": "wielkopolskie",
@@ -27,7 +27,7 @@
     },
     {
       "Name": "pomorskie",
-      "DeveloperCount": 3497
+      "DeveloperCount": 3498
     },
     {
       "Name": "zachodniopomorskie",
@@ -35,7 +35,7 @@
     },
     {
       "Name": "kujawsko-pomorskie",
-      "DeveloperCount": 726
+      "DeveloperCount": 727
     },
     {
       "Name": "lubelskie",
@@ -55,19 +55,26 @@
     },
     {
       "Name": "podkarpackie",
-      "DeveloperCount": 683
+      "DeveloperCount": 684
     },
     {
       "Name": "warmińsko-mazurskie",
-      "DeveloperCount": 444
+      "DeveloperCount": 443
     },
     {
       "Name": "lubuskie",
-      "DeveloperCount": 238
+      "DeveloperCount": 237
     },
     {
       "Name": "opolskie",
       "DeveloperCount": 442
     }
-  ]
+  ],
+  "Trivia": {
+    "MediumCityWithFewestDevelopers": "Wałbrzych",
+    "BigCityWithFewestDevelopers": "Łódź",
+    "SmallestTownWithDeveloper": "Szlichtyngowa",
+    "BigCityWithBestDeveloperToNonDeveloperRatio": "Kraków",
+    "MediumCityWithBestDeveloperToNonDeveloperRatio": "Gdańsk"
+  }
 }
