@@ -8,6 +8,7 @@ import * as voivodeshipPieChart from './voivodeshipsPieChart';
 import * as totalSummary from './totalSummary';
 import * as trivia from './trivia';
 import * as licensesPieChart from './licensesPieChart';
+import * as opoleVsWroclawSummary from './opoleVsWroclawSummary';
 
 import { Data, CityData } from './data';
 
@@ -28,6 +29,8 @@ async function Init() {
     totalSummary.Init(data.Total);
     voivodeshipPieChart.Init(data.Voivodeships);
     trivia.Init(data.Trivia);
+
+    opoleVsWroclawSummary.Init(dataForOpole, dataForWroclaw);
 
     licensesPieChart.Init('opole', dataForOpole.Licenses);
     licensesPieChart.Init('wroclaw', dataForWroclaw.Licenses);
