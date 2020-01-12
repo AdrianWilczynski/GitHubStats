@@ -1,5 +1,5 @@
 import Chart from 'chart.js';
-import { Voivodeship } from './data';
+import { Voivodeship } from './models';
 
 export function Init(voivodeships: Voivodeship[]) {
     new Chart('voivodeshipsPieChart', {

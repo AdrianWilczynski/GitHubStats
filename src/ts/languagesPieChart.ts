@@ -1,5 +1,5 @@
 import Chart from 'chart.js';
-import { Language } from './data';
+import { Language } from './models';
 
 export function Init(cityId: string, languages: Language[]) {
     new Chart(`${cityId}LanguagesPieChart`, {

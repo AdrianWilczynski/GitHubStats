@@ -1,5 +1,5 @@
 import { Grid, ColDef, GridOptions } from 'ag-grid-community';
-import { Repository } from './data';
+import { Repository } from './models';
 
 export async function Init(cityId: string, repositories: Repository[]) {
     const columns: ColDef[] = [

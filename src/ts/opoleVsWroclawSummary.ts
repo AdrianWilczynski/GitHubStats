@@ -1,4 +1,4 @@
-import { CityData } from "./data";
+import { CityData } from "./models";
 
 export function Init(opole: CityData, wroclaw: CityData) {
     document.getElementById('opoleRepositoryCount')!.innerText = opole.RepositoryCount.toString();

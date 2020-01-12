@@ -67,6 +67,17 @@ private var topRepositories = repositoriesPerUser
         Language = r.language ?? "-"
     });
 
+private const int gitHubCreationYear = 2008;
+
+private var years = Enumerable.Range(gitHubCreationYear, DateTime.Now.Year + 1 - gitHubCreationYear)
+    .Select(y => new Year
+    {
+        Value = y,
+        RepositoriesCreatedCount = repositoriesPerUser
+            .SelectMany(u => u.Value)
+            .Count(r => r.created_at.Year == y)
+    });
+
 SaveDataFile(output, new CityData
 {
     RepositoryCount = repositoriesPerUser.Sum(u => u.Value.Count()),
@@ -74,5 +85,6 @@ SaveDataFile(output, new CityData
     Licenses = licenses,
     LanguagesCount = languages.Count(),
     Languages = languages,
-    TopRepositories = topRepositories
+    TopRepositories = topRepositories,
+    Years = years
 });

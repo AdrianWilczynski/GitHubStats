@@ -30,6 +30,7 @@ export interface CityData {
     LanguagesCount: number;
     Languages: Language[];
     TopRepositories: Repository[];
+    Years: Year[];
 }
 
 export interface License {
@@ -48,4 +49,9 @@ export interface Repository {
     Url: string;
     Stars: number;
     Language: string;
+}
+
+export interface Year {
+    RepositoriesCreatedCount: number;
+    Value: number;
 }

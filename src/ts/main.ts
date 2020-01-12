@@ -11,8 +11,9 @@ import * as languagesPieChart from './languagesPieChart';
 import * as licensesPieChart from './licensesPieChart';
 import * as opoleVsWroclawSummary from './opoleVsWroclawSummary';
 import * as topRepositoriesGrid from './topRepositoriesGrid';
+import * as repositoriesPerYearLineChart from './repositoriesPerYearLineChart';
 
-import { Data, CityData } from './data';
+import { Data, CityData } from './models';
 
 Init();
 
@@ -42,4 +43,6 @@ async function Init() {
 
     topRepositoriesGrid.Init('opole', dataForOpole.TopRepositories);
     topRepositoriesGrid.Init('wroclaw', dataForWroclaw.TopRepositories);
+
+    repositoriesPerYearLineChart.Init(dataForOpole.Years, dataForWroclaw.Years);
 }

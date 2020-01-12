@@ -1,4 +1,4 @@
-import { Trivia } from "./data";
+import { Trivia } from "./models";
 
 export function Init(trivia: Trivia) {
     for (const key of Object.keys(trivia)) {

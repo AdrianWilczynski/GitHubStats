@@ -1,5 +1,5 @@
 import Chart from 'chart.js';
-import { License } from './data';
+import { License } from './models';
 
 export function Init(cityId: string, licenses: License[]) {
     new Chart(`${cityId}LicensesPieChart`, {
