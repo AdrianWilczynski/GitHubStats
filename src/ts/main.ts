@@ -10,6 +10,7 @@ import * as trivia from './trivia';
 import * as languagesPieChart from './languagesPieChart';
 import * as licensesPieChart from './licensesPieChart';
 import * as opoleVsWroclawSummary from './opoleVsWroclawSummary';
+import * as topRepositoriesGrid from './topRepositoriesGrid';
 
 import { Data, CityData } from './data';
 
@@ -38,4 +39,7 @@ async function Init() {
 
     licensesPieChart.Init('opole', dataForOpole.Licenses);
     licensesPieChart.Init('wroclaw', dataForWroclaw.Licenses);
+
+    topRepositoriesGrid.Init('opole', dataForOpole.TopRepositories);
+    topRepositoriesGrid.Init('wroclaw', dataForWroclaw.TopRepositories);
 }

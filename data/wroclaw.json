@@ -721,5 +721,77 @@
       "Count": 1,
       "Name": "GDB"
     }
+  ],
+  "TopRepositories": [
+    {
+      "Name": "Design-Patterns-In-Swift",
+      "Description": "📖 Design Patterns implemented in Swift 5.0",
+      "Url": "https://github.com/ochococo/Design-Patterns-In-Swift",
+      "Stars": 11360,
+      "Language": "Swift"
+    },
+    {
+      "Name": "android-gif-drawable",
+      "Description": "Views and Drawable for displaying animated GIFs on Android",
+      "Url": "https://github.com/koral--/android-gif-drawable",
+      "Stars": 8030,
+      "Language": "Java"
+    },
+    {
+      "Name": "dom-to-image",
+      "Description": "Generates an image from a DOM node using HTML5 canvas",
+      "Url": "https://github.com/tsayen/dom-to-image",
+      "Stars": 5625,
+      "Language": "JavaScript"
+    },
+    {
+      "Name": "vue-multiselect",
+      "Description": "Universal select/multiselect/tagging component for Vue.js",
+      "Url": "https://github.com/shentao/vue-multiselect",
+      "Stars": 4930,
+      "Language": "JavaScript"
+    },
+    {
+      "Name": "SwiftyUserDefaults",
+      "Description": "Modern Swift API for NSUserDefaults",
+      "Url": "https://github.com/sunshinejr/SwiftyUserDefaults",
+      "Stars": 4046,
+      "Language": "Swift"
+    },
+    {
+      "Name": "React95",
+      "Description": "🌈🕹  Refreshed Windows 95 style UI components for your React app",
+      "Url": "https://github.com/arturbien/React95",
+      "Stars": 3419,
+      "Language": "JavaScript"
+    },
+    {
+      "Name": "wallpapper",
+      "Description": "Console application for creating dynamic wallpapers for macOS Mojave",
+      "Url": "https://github.com/mczachurski/wallpapper",
+      "Stars": 1860,
+      "Language": "Swift"
+    },
+    {
+      "Name": "Misago",
+      "Description": "Misago is fully featured modern forum application that is fast, scalable and responsive.",
+      "Url": "https://github.com/rafalp/Misago",
+      "Stars": 1771,
+      "Language": "Python"
+    },
+    {
+      "Name": "OOD-Principles-In-Swift",
+      "Description": "💎 The Principles of OOD (SOLID) based on Uncle Bob articles.",
+      "Url": "https://github.com/ochococo/OOD-Principles-In-Swift",
+      "Stars": 1556,
+      "Language": "Swift"
+    },
+    {
+      "Name": "DownloadProgressBar",
+      "Description": "DownloadProgressBar is an android library that delivers awesome custom progress bar. You can manipulate it's state in every way.",
+      "Url": "https://github.com/panwrona/DownloadProgressBar",
+      "Stars": 971,
+      "Language": "Java"
+    }
   ]
 }

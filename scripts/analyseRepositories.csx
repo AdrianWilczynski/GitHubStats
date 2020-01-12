@@ -7,6 +7,9 @@ using System.Linq;
 
 private class RepositoryFromApi
 {
+    public string name { get; set; }
+    public string html_url { get; set; }
+    public string description { get; set; }
     public string language { get; set; }
     public LicenseFromApi license { get; set; }
     public int open_issues { get; set; }
@@ -51,11 +54,25 @@ private var languages = repositoriesPerUser
     })
     .OrderByDescending(l => l.Count);
 
+private var topRepositories = repositoriesPerUser
+    .SelectMany(u => u.Value)
+    .OrderByDescending(r => r.stargazers_count)
+    .Take(10)
+    .Select(r => new Repository
+    {
+        Name = r.name,
+        Url = r.html_url,
+        Description = r.description,
+        Stars = r.stargazers_count,
+        Language = r.language ?? "-"
+    });
+
 SaveDataFile(output, new CityData
 {
     RepositoryCount = repositoriesPerUser.Sum(u => u.Value.Count()),
     LicensesCount = licenses.Count(l => l.Name != "None" && l.Name != "Other"),
     Licenses = licenses,
     LanguagesCount = languages.Count(),
-    Languages = languages
+    Languages = languages,
+    TopRepositories = topRepositories
 });

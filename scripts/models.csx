@@ -46,6 +46,7 @@ public class CityData
     public IEnumerable<License> Licenses { get; set; }
     public int LanguagesCount { get; set; }
     public IEnumerable<Language> Languages { get; set; }
+    public IEnumerable<Repository> TopRepositories { get; set; }
 }
 
 public class License
@@ -58,4 +59,13 @@ public class Language
 {
     public int Count { get; set; }
     public string Name { get; set; }
+}
+
+public class Repository
+{
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public string Url { get; set; }
+    public int Stars { get; set; }
+    public string Language { get; set; }
 }

@@ -261,5 +261,77 @@
       "Count": 1,
       "Name": "Smarty"
     }
+  ],
+  "TopRepositories": [
+    {
+      "Name": "hugo-theme-terminal",
+      "Description": "A simple, retro theme for Hugo",
+      "Url": "https://github.com/panr/hugo-theme-terminal",
+      "Stars": 318,
+      "Language": "CSS"
+    },
+    {
+      "Name": "hugo-theme-hello-friend",
+      "Description": "Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!",
+      "Url": "https://github.com/panr/hugo-theme-hello-friend",
+      "Stars": 273,
+      "Language": "CSS"
+    },
+    {
+      "Name": "gatsby-starter-hello-friend",
+      "Description": "Pretty basic starter for Gatsby that covers all of the essentials. All you have to do is start typing!",
+      "Url": "https://github.com/panr/gatsby-starter-hello-friend",
+      "Stars": 79,
+      "Language": "JavaScript"
+    },
+    {
+      "Name": "create-graphql-guru",
+      "Description": "Command line scaffolding and generator for Graphql Guru",
+      "Url": "https://github.com/otissv/create-graphql-guru",
+      "Stars": 44,
+      "Language": "JavaScript"
+    },
+    {
+      "Name": "fzf-mru.vim",
+      "Description": "Vim plugin that allows using awesome CtrlP MRU plugin with even more amazing FZF",
+      "Url": "https://github.com/pbogut/fzf-mru.vim",
+      "Stars": 44,
+      "Language": "Vim script"
+    },
+    {
+      "Name": "go-spatialite",
+      "Description": "Spatialite SQL Driver for Golang",
+      "Url": "https://github.com/shaxbee/go-spatialite",
+      "Stars": 25,
+      "Language": "Go"
+    },
+    {
+      "Name": "ffbx",
+      "Description": "Extract Firefox bookmarks from places.sqlite found in user profiles. Returns CSV data containing: timestamp of last modification, profile name, bookmark folder, url, title, tags.",
+      "Url": "https://github.com/websafe/ffbx",
+      "Stars": 22,
+      "Language": "Shell"
+    },
+    {
+      "Name": "deoplete-elm",
+      "Description": "Deoplete plugin for elm-oracle.",
+      "Url": "https://github.com/pbogut/deoplete-elm",
+      "Stars": 22,
+      "Language": "Python"
+    },
+    {
+      "Name": "recurring_events",
+      "Description": "Elixir library for dealing with recurring events",
+      "Url": "https://github.com/pbogut/recurring_events",
+      "Stars": 16,
+      "Language": "Elixir"
+    },
+    {
+      "Name": "is-schema-valid",
+      "Description": "Checks if object literal has the correct schema",
+      "Url": "https://github.com/otissv/is-schema-valid",
+      "Stars": 13,
+      "Language": "JavaScript"
+    }
   ]
 }
