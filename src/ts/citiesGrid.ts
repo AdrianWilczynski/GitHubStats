@@ -12,6 +12,7 @@ export async function Init() {
         { headerName: 'Voivodeship', field: 'Voivodeship' },
         { headerName: 'Population', field: 'Population', filter: 'number' },
         { headerName: 'Developer Count', field: 'DeveloperCount', filter: 'number', cellClass: 'text-primary' },
+        { headerName: 'Percentage', field: 'Percentage', filter: 'number' }
     ];
 
     const response = await fetch('cities.json');
