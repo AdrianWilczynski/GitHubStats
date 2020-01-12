@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" ref="favicon.ico">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
+    <title>GitHub Stats</title>
+</head>
+
+<body style="min-width: 800px;">
+    <div class="mt-5">
+        <img src="github.svg" alt="GitHub" class="d-block mx-auto" style="width: 200px">
+        <h1 class="text-center">GitHub Stats</h1>
+    </div>
+
+    <div class="mt-5">
+        <h2 class="text-center">Totals</h2>
+        <div class="text-center">
+            <div>
+                There are <span id="totalSummaryDeveloperCount" class="text-primary">...</span>
+                developers* with GitHub account in Polish towns & cities
+                (<span id="totalSummaryPercentage" class="text-secondary">...</span>% of their total population).
+            </div>
+            <small class="text-secondary">
+                *who specified location on GitHub profile
+            </small>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <h2 class="text-center">Voivodeships</h2>
+        <div class="d-flex justify-content-center">
+            <canvas id="voivodeshipsPieChart" height="500" width="500"></canvas>
+        </div>
+    </div>
+
+    <div class="my-5">
+        <h2 class="text-center">Towns & Cities</h2>
+        <div class="d-flex justify-content-center">
+            <div id="citiesGrid" style="height: 500px; width: 1000px;" class="ag-theme-material "></div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
