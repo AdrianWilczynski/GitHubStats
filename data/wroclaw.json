@@ -119,607 +119,909 @@
   "Languages": [
     {
       "Count": 6668,
-      "Name": "JavaScript"
+      "Name": "JavaScript",
+      "StarsAverage": 3.5,
+      "IssuesAverage": 0.3141871625674865
     },
     {
       "Count": 3554,
-      "Name": "Java"
+      "Name": "Java",
+      "StarsAverage": 3.3595948227349464,
+      "IssuesAverage": 0.2625211029825549
     },
     {
       "Count": 2917,
-      "Name": "Python"
+      "Name": "Python",
+      "StarsAverage": 2.5118272197463147,
+      "IssuesAverage": 0.37024340075419954
     },
     {
       "Count": 1587,
-      "Name": "HTML"
+      "Name": "HTML",
+      "StarsAverage": 0.17832388153749212,
+      "IssuesAverage": 0.13547574039067423
     },
     {
       "Count": 1575,
-      "Name": "Ruby"
+      "Name": "Ruby",
+      "StarsAverage": 1.6368253968253967,
+      "IssuesAverage": 0.18095238095238095
     },
     {
       "Count": 1461,
-      "Name": "PHP"
+      "Name": "PHP",
+      "StarsAverage": 1.463381245722108,
+      "IssuesAverage": 0.31759069130732376
     },
     {
       "Count": 1451,
-      "Name": "C++"
+      "Name": "C++",
+      "StarsAverage": 0.5203308063404548,
+      "IssuesAverage": 0.4203997243280496
     },
     {
       "Count": 1339,
-      "Name": "C#"
+      "Name": "C#",
+      "StarsAverage": 1.3532486930545182,
+      "IssuesAverage": 0.32038834951456313
     },
     {
       "Count": 1068,
-      "Name": "CSS"
+      "Name": "CSS",
+      "StarsAverage": 0.6310861423220974,
+      "IssuesAverage": 0.13202247191011235
     },
     {
       "Count": 985,
-      "Name": "TypeScript"
+      "Name": "TypeScript",
+      "StarsAverage": 2.4233502538071066,
+      "IssuesAverage": 0.5928934010152285
     },
     {
       "Count": 834,
-      "Name": "C"
+      "Name": "C",
+      "StarsAverage": 1.2218225419664268,
+      "IssuesAverage": 0.15947242206235013
     },
     {
       "Count": 678,
-      "Name": "Shell"
+      "Name": "Shell",
+      "StarsAverage": 0.7477876106194691,
+      "IssuesAverage": 0.09587020648967552
     },
     {
       "Count": 477,
-      "Name": "Scala"
+      "Name": "Scala",
+      "StarsAverage": 2.6939203354297696,
+      "IssuesAverage": 0.19077568134171907
     },
     {
       "Count": 472,
-      "Name": "Go"
+      "Name": "Go",
+      "StarsAverage": 0.777542372881356,
+      "IssuesAverage": 0.11864406779661017
     },
     {
       "Count": 410,
-      "Name": "Kotlin"
+      "Name": "Kotlin",
+      "StarsAverage": 0.6414634146341464,
+      "IssuesAverage": 6.324390243902439
     },
     {
       "Count": 391,
-      "Name": "Swift"
+      "Name": "Swift",
+      "StarsAverage": 51.90281329923274,
+      "IssuesAverage": 0.19948849104859334
     },
     {
       "Count": 270,
-      "Name": "Jupyter Notebook"
+      "Name": "Jupyter Notebook",
+      "StarsAverage": 0.37777777777777777,
+      "IssuesAverage": 0.037037037037037035
     },
     {
       "Count": 198,
-      "Name": "Objective-C"
+      "Name": "Objective-C",
+      "StarsAverage": 2.0202020202020203,
+      "IssuesAverage": 0.08585858585858586
     },
     {
       "Count": 195,
-      "Name": "Rust"
+      "Name": "Rust",
+      "StarsAverage": 1.8153846153846154,
+      "IssuesAverage": 0.27692307692307694
     },
     {
       "Count": 165,
-      "Name": "Vue"
+      "Name": "Vue",
+      "StarsAverage": 0.806060606060606,
+      "IssuesAverage": 0.20606060606060606
     },
     {
       "Count": 140,
-      "Name": "TeX"
+      "Name": "TeX",
+      "StarsAverage": 0.29285714285714287,
+      "IssuesAverage": 0.07857142857142857
     },
     {
       "Count": 122,
-      "Name": "Elixir"
+      "Name": "Elixir",
+      "StarsAverage": 0.4180327868852459,
+      "IssuesAverage": 0.14754098360655737
     },
     {
       "Count": 101,
-      "Name": "CoffeeScript"
+      "Name": "CoffeeScript",
+      "StarsAverage": 0.27722772277227725,
+      "IssuesAverage": 0.0891089108910891
     },
     {
       "Count": 99,
-      "Name": "Haskell"
+      "Name": "Haskell",
+      "StarsAverage": 0.32323232323232326,
+      "IssuesAverage": 0.050505050505050504
     },
     {
       "Count": 95,
-      "Name": "Makefile"
+      "Name": "Makefile",
+      "StarsAverage": 0.37894736842105264,
+      "IssuesAverage": 0.16842105263157894
     },
     {
       "Count": 86,
-      "Name": "Dockerfile"
+      "Name": "Dockerfile",
+      "StarsAverage": 1.0348837209302326,
+      "IssuesAverage": 0.2441860465116279
     },
     {
       "Count": 83,
-      "Name": "Vim script"
+      "Name": "Vim script",
+      "StarsAverage": 0.6626506024096386,
+      "IssuesAverage": 0.14457831325301204
     },
     {
       "Count": 68,
-      "Name": "R"
+      "Name": "R",
+      "StarsAverage": 0.16176470588235295,
+      "IssuesAverage": 0.08823529411764706
     },
     {
       "Count": 63,
-      "Name": "Groovy"
+      "Name": "Groovy",
+      "StarsAverage": 2.6825396825396823,
+      "IssuesAverage": 0.2698412698412698
     },
     {
       "Count": 62,
-      "Name": "OCaml"
+      "Name": "OCaml",
+      "StarsAverage": 0.45161290322580644,
+      "IssuesAverage": 0.3709677419354839
     },
     {
       "Count": 62,
-      "Name": "Erlang"
+      "Name": "Erlang",
+      "StarsAverage": 1.0483870967741935,
+      "IssuesAverage": 0.3870967741935484
     },
     {
       "Count": 62,
-      "Name": "Prolog"
+      "Name": "Prolog",
+      "StarsAverage": 0.27419354838709675,
+      "IssuesAverage": 0.11290322580645161
     },
     {
       "Count": 57,
-      "Name": "Clojure"
+      "Name": "Clojure",
+      "StarsAverage": 0.21052631578947367,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 56,
-      "Name": "PowerShell"
+      "Name": "PowerShell",
+      "StarsAverage": 0.4642857142857143,
+      "IssuesAverage": 0.07142857142857142
     },
     {
       "Count": 56,
-      "Name": "VimL"
+      "Name": "VimL",
+      "StarsAverage": 0.5714285714285714,
+      "IssuesAverage": 0.017857142857142856
     },
     {
       "Count": 52,
-      "Name": "Assembly"
+      "Name": "Assembly",
+      "StarsAverage": 0.4230769230769231,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 51,
-      "Name": "Emacs Lisp"
+      "Name": "Emacs Lisp",
+      "StarsAverage": 0.9215686274509803,
+      "IssuesAverage": 0.17647058823529413
     },
     {
       "Count": 48,
-      "Name": "Dart"
+      "Name": "Dart",
+      "StarsAverage": 1.2916666666666667,
+      "IssuesAverage": 0.0625
     },
     {
       "Count": 42,
-      "Name": "Matlab"
+      "Name": "Matlab",
+      "StarsAverage": 0.5476190476190477,
+      "IssuesAverage": 0.023809523809523808
     },
     {
       "Count": 38,
-      "Name": "Perl"
+      "Name": "Perl",
+      "StarsAverage": 0.6578947368421053,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 37,
-      "Name": "F#"
+      "Name": "F#",
+      "StarsAverage": 0.2972972972972973,
+      "IssuesAverage": 0.05405405405405406
     },
     {
       "Count": 36,
-      "Name": "CMake"
+      "Name": "CMake",
+      "StarsAverage": 0.5277777777777778,
+      "IssuesAverage": 0.1388888888888889
     },
     {
       "Count": 31,
-      "Name": "Lua"
+      "Name": "Lua",
+      "StarsAverage": 0.6774193548387096,
+      "IssuesAverage": 0.5161290322580645
     },
     {
       "Count": 29,
-      "Name": "VHDL"
+      "Name": "VHDL",
+      "StarsAverage": 0.3793103448275862,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 26,
-      "Name": "Ada"
+      "Name": "Ada",
+      "StarsAverage": 0.038461538461538464,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 25,
-      "Name": "Elm"
+      "Name": "Elm",
+      "StarsAverage": 0.52,
+      "IssuesAverage": 0.2
     },
     {
       "Count": 21,
-      "Name": "D"
+      "Name": "D",
+      "StarsAverage": 0.2857142857142857,
+      "IssuesAverage": 0.47619047619047616
     },
     {
       "Count": 18,
-      "Name": "Arduino"
+      "Name": "Arduino",
+      "StarsAverage": 0.6666666666666666,
+      "IssuesAverage": 0.6111111111111112
     },
     {
       "Count": 18,
-      "Name": "Julia"
+      "Name": "Julia",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 17,
-      "Name": "HCL"
+      "Name": "HCL",
+      "StarsAverage": 0.11764705882352941,
+      "IssuesAverage": 0.11764705882352941
     },
     {
       "Count": 15,
-      "Name": "MATLAB"
+      "Name": "MATLAB",
+      "StarsAverage": 0.5333333333333333,
+      "IssuesAverage": 0.2
     },
     {
       "Count": 14,
-      "Name": "Puppet"
+      "Name": "Puppet",
+      "StarsAverage": 0.07142857142857142,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 13,
-      "Name": "ApacheConf"
+      "Name": "ApacheConf",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 13,
-      "Name": "Perl6"
+      "Name": "Perl6",
+      "StarsAverage": 0.5384615384615384,
+      "IssuesAverage": 0.5384615384615384
     },
     {
       "Count": 12,
-      "Name": "PureScript"
+      "Name": "PureScript",
+      "StarsAverage": 3.1666666666666665,
+      "IssuesAverage": 1.25
     },
     {
       "Count": 12,
-      "Name": "Pascal"
+      "Name": "Pascal",
+      "StarsAverage": 0.16666666666666666,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 11,
-      "Name": "Smarty"
+      "Name": "Smarty",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 11,
-      "Name": "XSLT"
+      "Name": "XSLT",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.09090909090909091
     },
     {
       "Count": 11,
-      "Name": "ASP"
+      "Name": "ASP",
+      "StarsAverage": 0.8181818181818182,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 11,
-      "Name": "LabVIEW"
+      "Name": "LabVIEW",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 10,
-      "Name": "Standard ML"
+      "Name": "Standard ML",
+      "StarsAverage": 1.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 10,
-      "Name": "SQLPL"
+      "Name": "SQLPL",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 10,
-      "Name": "Verilog"
+      "Name": "Verilog",
+      "StarsAverage": 0.9,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 10,
-      "Name": "Eagle"
+      "Name": "Eagle",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.3
     },
     {
       "Count": 10,
-      "Name": "Batchfile"
+      "Name": "Batchfile",
+      "StarsAverage": 0.6,
+      "IssuesAverage": 0.1
     },
     {
       "Count": 9,
-      "Name": "Racket"
+      "Name": "Racket",
+      "StarsAverage": 0.8888888888888888,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 9,
-      "Name": "Crystal"
+      "Name": "Crystal",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 9,
-      "Name": "PLSQL"
+      "Name": "PLSQL",
+      "StarsAverage": 0.8888888888888888,
+      "IssuesAverage": 1.2222222222222223
     },
     {
       "Count": 9,
-      "Name": "Coq"
+      "Name": "Coq",
+      "StarsAverage": 1.8888888888888888,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 9,
-      "Name": "TSQL"
+      "Name": "TSQL",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 8,
-      "Name": "ActionScript"
+      "Name": "ActionScript",
+      "StarsAverage": 0.25,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 8,
-      "Name": "Perl 6"
+      "Name": "Perl 6",
+      "StarsAverage": 6.75,
+      "IssuesAverage": 7.5
     },
     {
       "Count": 8,
-      "Name": "ABAP"
+      "Name": "ABAP",
+      "StarsAverage": 0.875,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 7,
-      "Name": "Vala"
+      "Name": "Vala",
+      "StarsAverage": 23.285714285714285,
+      "IssuesAverage": 3.2857142857142856
     },
     {
       "Count": 7,
-      "Name": "PLpgSQL"
+      "Name": "PLpgSQL",
+      "StarsAverage": 0.2857142857142857,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 7,
-      "Name": "Nim"
+      "Name": "Nim",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 7,
-      "Name": "Cuda"
+      "Name": "Cuda",
+      "StarsAverage": 0.2857142857142857,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 7,
-      "Name": "Processing"
+      "Name": "Processing",
+      "StarsAverage": 3.5714285714285716,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 6,
-      "Name": "Nix"
+      "Name": "Nix",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 6,
-      "Name": "Nginx"
+      "Name": "Nginx",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 6,
-      "Name": "Visual Basic"
+      "Name": "Visual Basic",
+      "StarsAverage": 0.16666666666666666,
+      "IssuesAverage": 1.0
     },
     {
       "Count": 5,
-      "Name": "Common Lisp"
+      "Name": "Common Lisp",
+      "StarsAverage": 0.4,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 5,
-      "Name": "BitBake"
+      "Name": "BitBake",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 5,
-      "Name": "QML"
+      "Name": "QML",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 5,
-      "Name": "SQF"
+      "Name": "SQF",
+      "StarsAverage": 0.2,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 4,
-      "Name": "Scheme"
+      "Name": "Scheme",
+      "StarsAverage": 1.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 4,
-      "Name": "Mathematica"
+      "Name": "Mathematica",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 4,
-      "Name": "Yacc"
+      "Name": "Yacc",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 4,
-      "Name": "GDScript"
+      "Name": "GDScript",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 4,
-      "Name": "GLSL"
+      "Name": "GLSL",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.5
     },
     {
       "Count": 4,
-      "Name": "Haxe"
+      "Name": "Haxe",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 3,
-      "Name": "FreeMarker"
+      "Name": "FreeMarker",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 3,
-      "Name": "ShaderLab"
+      "Name": "ShaderLab",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 3,
-      "Name": "API Blueprint"
+      "Name": "API Blueprint",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 3,
-      "Name": "ANTLR"
+      "Name": "ANTLR",
+      "StarsAverage": 0.3333333333333333,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 3,
-      "Name": "AutoHotkey"
+      "Name": "AutoHotkey",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Objective-C++"
+      "Name": "Objective-C++",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Solidity"
+      "Name": "Solidity",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "GCC Machine Description"
+      "Name": "GCC Machine Description",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "WebAssembly"
+      "Name": "WebAssembly",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Pony"
+      "Name": "Pony",
+      "StarsAverage": 3.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Nimrod"
+      "Name": "Nimrod",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "XML"
+      "Name": "XML",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "IDL"
+      "Name": "IDL",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "SystemVerilog"
+      "Name": "SystemVerilog",
+      "StarsAverage": 3.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "SaltStack"
+      "Name": "SaltStack",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "SQL"
+      "Name": "SQL",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "CLIPS"
+      "Name": "CLIPS",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Oz"
+      "Name": "Oz",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "OpenSCAD"
+      "Name": "OpenSCAD",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "M4"
+      "Name": "M4",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Awk"
+      "Name": "Awk",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Smali"
+      "Name": "Smali",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "RobotFramework"
+      "Name": "RobotFramework",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "AppleScript"
+      "Name": "AppleScript",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "SourcePawn"
+      "Name": "SourcePawn",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 2,
-      "Name": "Max"
+      "Name": "Max",
+      "StarsAverage": 0.5,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Groff"
+      "Name": "Groff",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Xtend"
+      "Name": "Xtend",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Web Ontology Language"
+      "Name": "Web Ontology Language",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Parrot"
+      "Name": "Parrot",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "PostScript"
+      "Name": "PostScript",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Lex"
+      "Name": "Lex",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Apex"
+      "Name": "Apex",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Meson"
+      "Name": "Meson",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Agda"
+      "Name": "Agda",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Dogescript"
+      "Name": "Dogescript",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Brainfuck"
+      "Name": "Brainfuck",
+      "StarsAverage": 2.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Jasmin"
+      "Name": "Jasmin",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "DOT"
+      "Name": "DOT",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "MQL4"
+      "Name": "MQL4",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "MQL5"
+      "Name": "MQL5",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Roff"
+      "Name": "Roff",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Pike"
+      "Name": "Pike",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "LOLCODE"
+      "Name": "LOLCODE",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "AGS Script"
+      "Name": "AGS Script",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "NetLogo"
+      "Name": "NetLogo",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Protocol Buffer"
+      "Name": "Protocol Buffer",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "CartoCSS"
+      "Name": "CartoCSS",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Handlebars"
+      "Name": "Handlebars",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "FORTRAN"
+      "Name": "FORTRAN",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "RAML"
+      "Name": "RAML",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "M"
+      "Name": "M",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Game Maker Language"
+      "Name": "Game Maker Language",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "KiCad"
+      "Name": "KiCad",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Fortran"
+      "Name": "Fortran",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "LiveScript"
+      "Name": "LiveScript",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "nesC"
+      "Name": "nesC",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Pawn"
+      "Name": "Pawn",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "Gherkin"
+      "Name": "Gherkin",
+      "StarsAverage": 1.0,
+      "IssuesAverage": 0.0
     },
     {
       "Count": 1,
-      "Name": "GDB"
+      "Name": "GDB",
+      "StarsAverage": 0.0,
+      "IssuesAverage": 0.0
     }
   ],
   "TopRepositories": [

@@ -42,6 +42,8 @@ export interface License {
 export interface Language {
     Count: number;
     Name: string;
+    StarsAverage: number;
+    IssuesAverage: number;
 }
 
 export interface Repository {

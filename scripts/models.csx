@@ -61,6 +61,8 @@ public class Language
 {
     public int Count { get; set; }
     public string Name { get; set; }
+    public double StarsAverage { get; set; }
+    public double IssuesAverage { get; set; }
 }
 
 public class Repository

@@ -13,6 +13,7 @@ import * as opoleVsWroclawSummary from './opoleVsWroclawSummary';
 import * as topRepositoriesGrid from './topRepositoriesGrid';
 import * as repositoriesPerYearLineChart from './repositoriesPerYearLineChart';
 import * as languagesOverTheYearsLineChart from './languagesOverTheYearsLineChart';
+import * as languagesCharts from './languagesCharts';
 
 import { Data, CityData } from './models';
 
@@ -49,4 +50,6 @@ async function Init() {
 
     languagesOverTheYearsLineChart.Init('opole', dataForOpole.LanguagesOverTheYears);
     languagesOverTheYearsLineChart.Init('wroclaw', dataForWroclaw.LanguagesOverTheYears);
+
+    languagesCharts.Init(dataForWroclaw.Languages);
 }

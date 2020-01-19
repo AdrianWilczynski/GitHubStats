@@ -50,7 +50,15 @@ private var languages = repositoriesPerUser
     .Select(g => new Language
     {
         Name = g.Key,
-        Count = g.Count()
+        Count = g.Count(),
+        StarsAverage = repositoriesPerUser
+            .SelectMany(u => u.Value)
+            .Where(r => r.language == g.Key)
+            .Average(r => r.stargazers_count),
+        IssuesAverage = repositoriesPerUser
+            .SelectMany(u => u.Value)
+            .Where(r => r.language == g.Key)
+            .Average(r => r.open_issues)
     })
     .OrderByDescending(l => l.Count);
 
