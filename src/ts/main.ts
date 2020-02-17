@@ -3,6 +3,8 @@ import 'ag-grid-community/dist/styles/ag-theme-material.css';
 
 import 'chartjs-plugin-colorschemes';
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 import * as citiesGrid from './citiesGrid';
 import * as voivodeshipPieChart from './voivodeshipsPieChart';
 import * as totalSummary from './totalSummary';
